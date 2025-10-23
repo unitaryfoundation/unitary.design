@@ -35,9 +35,9 @@ jobs:
       - name: Configure deployment target
         run: |
           if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.target }}" == "github-pages" ]]; then
-            echo "PATH_PREFIX=/uhack-test/" >> "$GITHUB_ENV"
+            echo "PATH_PREFIX=/unitary.design/" >> "$GITHUB_ENV"
             echo "INCLUDE_CNAME=false" >> "$GITHUB_ENV"
-            echo "SITE_URL=https://unitaryfoundation.github.io/uhack-test" >> "$GITHUB_ENV"
+            echo "SITE_URL=https://unitaryfoundation.github.io/unitary.design" >> "$GITHUB_ENV"
           else
             echo "PATH_PREFIX=/" >> "$GITHUB_ENV"
             echo "INCLUDE_CNAME=true" >> "$GITHUB_ENV"
