@@ -1,7 +1,4 @@
 {
-  "name": "unitaryHACK",
-  "version": "1.0.0",
-  "description": "open source quantum hackathon website",
   "scripts": {
     "start": "cross-env npm-run-all build:sass --parallel watch:*",
     "build": "cross-env npm-run-all build:sass build:scripts build:eleventy",
@@ -16,27 +13,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unitaryfoundation/unitaryhack"
+    "url": "https://github.com/unitaryfoundation/unitary.design"
   },
   "author": {
     "name": "Unitary Foundation Team",
     "email": "info@unitary.foundation",
-    "url": "https://unitaryhack.dev"
+    "url": "https://unitary.design/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/unitaryfoundation/unitaryhack/issues"
+    "url": "https://github.com/unitaryfoundation/unitary.design/issues"
   },
-  "homepage": "http://unitaryhack.dev",
+  "homepage": "http://unitary.design/",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-navigation": "^0.3.3",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "autoprefixer": "^10.4.8",
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.12",
-    "esbuild": "^0.14.53",
+    "esbuild": "^0.25.11",
     "html-minifier": "^4.0.0",
     "luxon": "^1.25.0",
     "markdown-it": "^13.0.1",
