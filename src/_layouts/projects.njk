@@ -1,0 +1,28 @@
+---
+layout: base.njk
+section: projects
+pagination:
+  data: collections
+  size: Infinity
+  filter:
+    - project
+---
+<div class="page-margin">
+  <div class="project-container">
+
+    <h1>{{title}}</h1>
+
+    {% if subtitle %}
+      <p>{{ subtitle }}</p>
+    {% endif %}
+
+    <div class="hr"></div>
+
+  </div>
+
+  {{ layoutContent | safe }}
+
+  {# Projects #}
+{% from "macros/projectlist.njk" import projectlist %}
+    {{ projectlist(projects = collections.sortedProjects) }}
+</div>

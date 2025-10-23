@@ -1,0 +1,8 @@
+_site/
+node_modules/
+
+src/_data/emails
+src/_data/signups.csv
+
+.env
+.DS_Store

@@ -1,0 +1,18 @@
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-style: solid;
+  border-color: var(--color-border-dark);
+  background-color: var(--color-bg-container);
+  box-shadow: var(--shadow);
+
+  @media (min-width: 1024px) {
+    max-width: var(--site-width);
+    margin: 20px auto 0;
+  }
+}
