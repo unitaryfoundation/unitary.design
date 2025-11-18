@@ -3,23 +3,39 @@ layout: base.njk
 section: home
 ---
 <div class="home-page">
-	{# <div class="home-page__bg-square"></div> #}
+  {# <div class="home-page__bg-square"></div> #}
 
   {# Hero #}
-  <img class="overlay" src="{{ '/assets/img/Hero_animation.gif' | url }}">
+  {% block hero %}
   <div class="hero">
     <div class="hero__col">
-      {% image
-        home.image,
-        home.image_alt,
-        "(min-width: 1024px) 50vw, 100vw",
-        "hero__image shadow",
-        "eager"
-      %}
+      <img
+       src="{{ '/assets/img/unitaryDESIGN.gif' | url }}"
+       alt="{{ home.image_alt }}"
+       class="hero__image shadow overlay"
+       loading="eager"
+       sizes="(min-width: 1024px) 50vw, 100vw"
+      />
     </div>
     <div class="hero__col">
-      {# <h1 class="hero__title gradient-text">{{ home.title }}</h1> #}
-      <h1 class="hero__title">{{ home.title }}</h1>
+      <h1 class="hero__title">
+        {% set words = home.title.split(' ') %}
+        {% if words | length > 0 %}
+          {{ words[0] }}
+        {% endif %}
+
+        {% if words | length > 1 %}
+          <span class="highlight"> {{ words[1] }} </span>
+       {% endif %}
+
+       {% if words | length > 2 %}
+         {% for w in words | slice(2) %}
+           {{ w }}
+          {% endfor %}
+        {% endif %}
+      </h1>
+
+
       {% if home.body %}
         <div class="hero__body">{{ home.body | markdown | safe }}</div>
       {% endif %}
@@ -37,6 +53,7 @@ section: home
     <a href="{{ '/register/' | url }}" class="button-reg">Register here</a>
   </div>
   <br/>
+  {% endblock %}
 
   {# Supporters #}
   <div class="uhack">
@@ -50,7 +67,7 @@ section: home
 
     <ul>
       <li>
-      <b>Core Members</b>:
+        <b>Core Members</b>:
         <a href="https://www.ibm.com/quantum">IBM Quantum</a>,
         <a href="https://dorahacks.io/">DoraHacks</a>, and
         <a href="https://openquantumdesign.org/">OQD</a>

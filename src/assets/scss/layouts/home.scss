@@ -76,9 +76,15 @@
   @media (min-width: 1024px) {
     margin-top: 0;
     font-size: 3em;
-    color: var(--color-bg-secondary);
-    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    color: black;
   }
+}
+
+.hero__title .highlight {
+  background-color: var(--color-bg-secondary);
+  /* your highlight color */
+  color: black;
+  /* text color on highlight */
 }
 
 .hero__body {
@@ -112,14 +118,13 @@
   display: flex;
   flex-direction: column;
   align-items: left;
-  background-color: var(--color-bg-container);
-  border-style: solid;
-  border-color: var(--color-border-dark);
+  background-color: var(--color-bg);
   padding: 24px;
 }
 
-.button-reg {
-  background-color: #FAD85E;
+/* Target the link itself */
+a.button-reg {
+  background-color: var(--color-bg-secondary);
   border-radius: 24px;
   border-style: solid;
   border-color: var(--color-border-dark);
@@ -127,17 +132,25 @@
   font-size: smaller;
   font-weight: 600;
   padding: 8px 20px;
+  /* keep same padding */
   text-align: center;
   text-decoration: none;
   display: inline-block;
   align-items: center;
   width: fit-content;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+  /* smooth hover */
+}
 
-  &:hover {
-    background-color: black;
-    color: #FAD85E;
-    padding: 8px 20px 9px;
-  }
+a.button-reg:hover,
+a.button-reg:focus,
+a.button-reg:active {
+  background-color: black;
+  color: var(--color-bg-secondary);
+  padding: 8px 20px;
+  /* same as default to prevent jump */
+  text-decoration: none;
 }
 
 /* wrap long issue titles */

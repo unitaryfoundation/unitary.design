@@ -16,10 +16,8 @@
   justify-content: space-between;
   margin: 3px 12px 0;
   padding: 8px 10px;
-  border-style: solid;
-  border-color: var(--color-border-dark);
-  background-color: var(--color-bg-container);
-  box-shadow: var(--shadow);
+  background-color: var(--color-bg-secondary);
+  box-shadow: none;
 
   @media (min-width: 1024px) {
     max-width: var(--site-width);
@@ -40,14 +38,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
+  width: 80px;
   height: 30px;
   padding: 6px 8px;
   border-radius: var(--border-radius-sm);
   color: var(--color-text);
 
   @media (min-width: 1024px) {
-    width: 40px;
+    width: 80px;
     height: 40px;
   }
 

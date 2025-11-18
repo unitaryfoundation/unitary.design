@@ -6,10 +6,7 @@
   width: 100%;
   padding-top: 24px;
   padding-bottom: 24px;
-  border-style: solid;
-  border-color: var(--color-border-dark);
-  background-color: var(--color-bg-container);
-  box-shadow: var(--shadow);
+  background-color: var(--color-bg);
 
   @media (min-width: 1024px) {
     max-width: var(--site-width);

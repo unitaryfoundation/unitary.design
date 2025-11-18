@@ -15,10 +15,7 @@
   flex-direction: column;
   justify-content: top;
   padding: 15px 25px;
-  border-style: solid;
-  border-color: var(--color-border-dark);
-  background-color: var(--color-bg-container);
-  box-shadow: var(--shadow);
+  background-color: var(--color-bg);
 
   :root[data-theme="dark"] & {
     background-color: var(--color-bg-secondary-dark);
@@ -38,8 +35,7 @@
   padding: 15px 25px;
   border-style: solid;
   border-color: var(--color-border-dark);
-  background-color: var(--color-bg-container);
-  box-shadow: var(--shadow);
+  background-color: var(--color-bg);
 
   :root[data-theme="dark"] & {
     background-color: var(--color-bg-secondary-dark);
