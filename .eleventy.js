@@ -7,6 +7,7 @@ const markdownFilter = require('./src/_11ty/filters/markdown-filter');
 const svgFilter = require('./src/_11ty/filters/svg-filter');
 const browserSyncConfig = require('./src/_11ty/utils/browser-sync-config');
 const { readableDateFilter, machineDateFilter } = require('./src/_11ty/filters/date-filters');
+const pluginTOC = require('eleventy-plugin-toc')
 
 module.exports = function (eleventyConfig) {
   const sanitizePathPrefix = (value) => {
@@ -35,6 +36,7 @@ module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginTOC)
 
   // Filters
   eleventyConfig.addFilter('markdown', markdownFilter);
