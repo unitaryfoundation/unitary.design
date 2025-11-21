@@ -26,4 +26,5 @@ Any submissions made after 5pm AoE on February 27th will not be considered, unle
 All participants and maintainers must adhere to the project's Code of Conduct as well as Unitary Foundation's [Community Code of Conduct](https://github.com/unitaryfoundation/unitary.foundation/blob/main/CODE_OF_CONDUCT.md). Violations of any Codes of Conduct associated with unitaryDESIGN will be addressed by the Unitary Foundation team, with disciplinary actions determined at their discretion and based on the severity of the offense, up to and including a permanent ban. Those who are reinvited to unitaryDESIGN (or other hackathons hosted by Unitary Foundation) for the subsequent year will be placed on probation, with their participation contingent upon adherence to further conditions, again at the discretion of the UF team.
 
 
-If you have any questions about the event, contact us hack@unitary.foundation. Or to get in touch with others working on the event, join our [Discord](https://discord.gg/2Y9z9xKKbr)!
+If you have any questions about the event, contact us at hack@unitary.foundation.
+To get in touch with others working on the event, join our [Discord](https://discord.gg/2Y9z9xKKbr)!
