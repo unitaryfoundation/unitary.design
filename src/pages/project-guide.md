@@ -1,5 +1,6 @@
 ---
 title: Project Maintainer Guide
+layout: project-guide.njk
 metaDescription: Helpful information for project maintainers participating in unitaryDESIGN
 date: 2025-03-21
 permalink: /project-guide/index.html
@@ -14,22 +15,6 @@ It is always important for projects to find skilled and committed contributors t
 
 We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/rules/' | url }}).
 
-## Table of Contents
-- [Maintainer Quick Reference Timeline]({{ '/project-guide#%F0%9F%97%93%EF%B8%8F-maintainer-timeline-%F0%9F%97%93%EF%B8%8F' | url }})
-- [Before the Hack (November-January)]({{ '/project-guide#%E2%8C%9A-before-the-hack-%E2%8C%9A' | url }})
-  - [Setting up your Github Repo]({{ '/project-guide#setting-up-your-github-repo' | url }})
-  - [Choosing good issues for participants]({{ '/project-guide#how-to-choose-good-issues-for-participants' | url }})
-  - [Exmaples of Good Issues from Previous Hacks]({{ '/project-guide#how-to-choose-good-issues-for-participants' | url }})
-- [During the Hack (February 16-27)]({{ '/project-guide#%F0%9F%9B%A0%EF%B8%8F-during-the-hack-%F0%9F%9B%A0%EF%B8%8F' | url }})
-- [Maintainer Tips and Tricks]({{ '/project-guide#maintainer-tips-and-tricks-during-the-hack' | url }})
-- [Frequently Asked Questions]({{ '/project-guide#%F0%9F%99%8B-faq-%F0%9F%A4%94' | url }})
-  - [What will be expected of me/my team?]({{ '/project-guide#what-will-be-expected-of-me%2Fmy-team%3F' | url }})
-  - [What does the maintainer workflow look like?]({{ '/project-guide#what-does-the-maintainer-workflow-look-like%3F' | url }})
-  - [How much activity should we expect to see?]({{ '/project-guide#how-much-activity-should-we-expect-to-see%3F' | url }})
-  - I closed an issue, but the unitaryDESIGN website still shows it as open. What should I do?
-  - Who owns the code contributed during unitaryDESIGN?
-  - [What should I do if I have questions or need support?]({{ '/project-guide#what-should-i-do-if-i-have-questions-or-need-support%3F' | url }})
-- [Helpful Resources]({{ '/project-guide#%F0%9F%A4%9D-helpful-resources-%F0%9F%A4%9D' | url }})
 
 ## 🗓️ Maintainer Quick Reference Timeline 🗓️
 
@@ -58,6 +43,7 @@ In November, we will distribute a form to finalize which issues you'd like to pu
 ### How to choose good issues for participants
 
 To make sure that everyone can participate in the hackathon, we encourage project maintainers to tag a variety of issues that may or may not include quantum content, may or may not require devops skills, etc. Remember, with unitaryDESIGN, we're aiming to focus on public-facing and education-focused pieces of your repo. We understand projects can be very targeted - if this is the case, we'll work together to find issues that fit best! Our goal is to help connect eager and skilled contributors to your projects to help make the quantum open source ecosystem better. 💖 We encourage you to reference our [Best practices for HACK Issues]({{ '/best-practices/' | url }}). for help in refining your issues to set contributors up for success. 
+
 ### Examples of Good Issues
 
 - Docs & examples:
@@ -115,7 +101,7 @@ In previous years we've seen some projects garner more attention, and some less.
 A bot will scrape all the issues participating in unitaryDESIGN **every 2 hours** during the event.
 If it has been more than 4 hours since you closed the issue, and it still shows as open, please reach out to the UF team on the `udesign-maintainers` channel on Discord.
 
-### Who owns the code contributed during unitaryDEISGN? 
+### Who owns the code contributed during unitaryDESIGN? 
 
 Please note that the Unitary Foundation is unable to provide specific legal advice. That being said, contributions made to a tool typically fall under the tool's open source license unless otherwise explicitly stated.
 
