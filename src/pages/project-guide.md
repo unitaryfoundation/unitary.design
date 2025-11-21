@@ -15,26 +15,21 @@ It is always important for projects to find skilled and committed contributors t
 We have some outlines below for what you can expect before and during the event, as well as [the rules for the event]({{ '/rules/' | url }}).
 
 ## Table of Contents
- - [Maintainer Quick Reference Timeline]({{ '/project-guide#%F0%9F%97%93%EF%B8%8F-maintainer-timeline-%F0%9F%97%93%EF%B8%8F' | url }})
-
- - [Before the Hack (November-January)]({{ '/project-guide#%E2%8C%9A-before-the-hack-%E2%8C%9A' | url }})
-   - [Setting up your Github Repo]({{ '/project-guide#setting-up-your-github-repo' | url }})
-   - [Choosing good issues for participants]({{ '/project-guide#how-to-choose-good-issues-for-participants' | url }})
-   - [Exmaples of Good Issues from Previous Hacks]({{ '/project-guide#how-to-choose-good-issues-for-participants' | url }})
-
- - [During the Hack (February 16-27)]({{ '/project-guide#%F0%9F%9B%A0%EF%B8%8F-during-the-hack-%F0%9F%9B%A0%EF%B8%8F' | url }})
-
- - [Maintainer Tips and Tricks]({{ '/project-guide#maintainer-tips-and-tricks-during-the-hack' | url }})
-
- - [Frequently Asked Questions]({{ '/project-guide#%F0%9F%99%8B-faq-%F0%9F%A4%94' | url }})
-   - [What will be expected of me/my team?]({{ '/project-guide#what-will-be-expected-of-me%2Fmy-team%3F' | url }})
-   - [What does the maintainer workflow look like?]({{ '/project-guide#what-does-the-maintainer-workflow-look-like%3F' | url }})
-   - [How much activity should we expect to see?]({{ '/project-guide#how-much-activity-should-we-expect-to-see%3F' | url }})
-   - I closed an issue, but the unitaryDESIGN website still shows it as open. What should I do?
-   - Who owns the code contributed during unitaryDESIGN?
-   - [What should I do if I have questions or need support?]({{ '/project-guide#what-should-i-do-if-i-have-questions-or-need-support%3F' | url }})
-
- - [Helpful Resources]({{ '/project-guide#%F0%9F%A4%9D-helpful-resources-%F0%9F%A4%9D' | url }})
+- [Maintainer Quick Reference Timeline]({{ '/project-guide#%F0%9F%97%93%EF%B8%8F-maintainer-timeline-%F0%9F%97%93%EF%B8%8F' | url }})
+- [Before the Hack (November-January)]({{ '/project-guide#%E2%8C%9A-before-the-hack-%E2%8C%9A' | url }})
+  - [Setting up your Github Repo]({{ '/project-guide#setting-up-your-github-repo' | url }})
+  - [Choosing good issues for participants]({{ '/project-guide#how-to-choose-good-issues-for-participants' | url }})
+  - [Exmaples of Good Issues from Previous Hacks]({{ '/project-guide#how-to-choose-good-issues-for-participants' | url }})
+- [During the Hack (February 16-27)]({{ '/project-guide#%F0%9F%9B%A0%EF%B8%8F-during-the-hack-%F0%9F%9B%A0%EF%B8%8F' | url }})
+- [Maintainer Tips and Tricks]({{ '/project-guide#maintainer-tips-and-tricks-during-the-hack' | url }})
+- [Frequently Asked Questions]({{ '/project-guide#%F0%9F%99%8B-faq-%F0%9F%A4%94' | url }})
+  - [What will be expected of me/my team?]({{ '/project-guide#what-will-be-expected-of-me%2Fmy-team%3F' | url }})
+  - [What does the maintainer workflow look like?]({{ '/project-guide#what-does-the-maintainer-workflow-look-like%3F' | url }})
+  - [How much activity should we expect to see?]({{ '/project-guide#how-much-activity-should-we-expect-to-see%3F' | url }})
+  - I closed an issue, but the unitaryDESIGN website still shows it as open. What should I do?
+  - Who owns the code contributed during unitaryDESIGN?
+  - [What should I do if I have questions or need support?]({{ '/project-guide#what-should-i-do-if-i-have-questions-or-need-support%3F' | url }})
+- [Helpful Resources]({{ '/project-guide#%F0%9F%A4%9D-helpful-resources-%F0%9F%A4%9D' | url }})
 
 ## 🗓️ Maintainer Quick Reference Timeline 🗓️
 
