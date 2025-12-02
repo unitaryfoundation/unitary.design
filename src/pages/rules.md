@@ -19,7 +19,9 @@ eleventyNavigation:
 
 A contribution to a participating project for this hackathon consists of making a pull request yourself to the project's repository. For pull requests resolving bountied issues, the first accepted PR from the project maintainers will receive the prize! Pull requests are reviewed and decisions to accept are made by the project maintainers. Hackers can make contributions anytime between February 16-27 [AoE](https://time.is/Anywhere_on_Earth). 
 
-Any submissions made after 5pm AoE on February 27th will not be considered, unless a special exception is made in advance by the Unitary Foundation team.  
+Any submissions made after 5pm AoE on February 27th will not be considered, unless a special exception is made in advance by the Unitary Foundation team. 
+
+**No [AI Slop](https://en.wikipedia.org/wiki/AI_slop) please!!** While we are open to collaboration with LLMs for unitaryDESIGN, please note that fully AI-generated PRs are not acceptable. It is up to the discretion of the individual maintainers whether or not LLM-generated PRs are the right fit for their issues, and they have the right to reject those that seem fully AI-generated. 
 
 ## Code of Conduct and Disciplinary Action
 
