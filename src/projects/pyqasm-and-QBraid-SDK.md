@@ -1,5 +1,5 @@
 ---
-title: PyQASM
+title: PyQASM and QBraid-SDK
 emoji: 🐣🧩
 project_url: https://github.com/qBraid/pyqasm
 metaDescription: Python toolkit for OpenQASM program analysis, validation and compilation
