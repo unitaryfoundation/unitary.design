@@ -1,5 +1,5 @@
 ---
-title: Piccolo.jl
+title: Piccolo.jl (Harmoniqs)
 emoji: 🪈🎶
 project_url: https://github.com/harmoniqs/Piccolo.jl
 metaDescription: Fine tuned quantum control inspired by robotics
