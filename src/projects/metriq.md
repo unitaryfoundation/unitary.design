@@ -1,6 +1,6 @@
 ---
 title: Metriq
-emoji: 📊⚛️
+emoji: 📊️📏
 project_url: https://github.com/unitaryfoundation/metriq-app
 metaDescription: Metriq is a community-driven platform for hosting quantum benchmarks.
 date: 2025-04-10
