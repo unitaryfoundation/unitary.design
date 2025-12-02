@@ -1,15 +1,14 @@
 ---
-title: Quantum Open Source Foundation
-emoji: 🚧
-project_url: https://example.com
-metaDescription: Description TBD.
-date: 2025-12-01
-summary: Description TBD.
-tags:
-  - tbd
+title: QOSF
+id: qosf.org
+emoji: 🌐
+project_url: https://github.com/qosf/qosf.org
+metaDescription: The Quantum Open Source Foundation (QOSF) is a non-profit organization that promotes the development and use of open-source software in quantum computing.
+summary: The Quantum Open Source Foundation (QOSF) is a non-profit organization that promotes the development and use of open-source software in quantum computing.
 bounties:
-  # - issue_num:
-  #   value:
+  # - issue_num: 63
+  #   value: 100
+  #   repo: qosf/monthly-challenges
 ---
 
-Project description coming soon.
+The Quantum Open Source Foundation (QOSF) is a non-profit organization that promotes the development and use of open-source software in quantum computing. It aims to build a collaborative, inclusive, and transparent community around quantum technology by supporting projects, contributors, and educational resources.

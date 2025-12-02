@@ -1,7 +1,7 @@
 ---
 title: zxlive
 emoji: 🚧
-project_url: https://example.com
+project_url: https://github.com/zxcalc/zxlive
 metaDescription: Description TBD.
 date: 2025-12-01
 summary: Description TBD.
