@@ -28,6 +28,7 @@ No matter your experience in quantum tech or open source communities, you can he
 
 * [How to Contribute to Open Source](https://opensource.guide/)
 * [GitHub Training Kit](https://training.github.com/)
+* [How to make your first contribution to Quantum Open Source by bqb Quantum Youth](https://www.youtube.com/watch?v=1W_quK1slrc)
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 * [How open source contributions can boost your career](https://opensource.com/article/19/5/how-get-job-doing-open-source)
 * [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
