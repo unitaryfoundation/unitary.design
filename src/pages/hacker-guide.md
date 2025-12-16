@@ -43,6 +43,7 @@ Whether you are new to quantum technologies or work on them every day, here is a
 * [Quantum Open Source Learning Resources on Quantum Computing](https://qosf.org/learn_quantum/)
 * [IBM’s Quantum Learning Resources ](https://learning.quantum.ibm.com/) 
 * [Quantum Machine Learning / PennyLane Tutorials](https://pennylane.ai/qml/)
+* [NVIDIA's CUDA-Q Academic](https://github.com/NVIDIA/cuda-q-academic)
 
 
 ## 🔨 During the Hack 🔨
