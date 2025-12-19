@@ -3,7 +3,7 @@
 Contribute to the open source ecosystem, level your skills, and get rewarded!
 
 [unitaryDESIGN](https://unitary.design/) is a virtual event encouraging people to make contributions to the open source quantum ecosystem through the lens of community engagement and science communication.
-The event will run February 16&mdash;27, 2026, and hackers have the opportunity to win cash bounties!
+The event will run February 16&mdash;27, 2026, and participants have the opportunity to win cash bounties!
 This is our inaugural run of unitaryDESIGN, and we're excited to have you join us!
 
 Read our hacker guide for more info and join our [Discord](https://discord.gg/a3EnYsT2rQ) if you have questions.
@@ -23,7 +23,7 @@ Here are some basic local setup steps to get you started:
 ### Local environment
 
 - Clone the repo
-- Navigate to the directory `cd untitar.design`
+- Navigate to the directory `cd unitary.design`
 - Install the goods `npm install`
 - Run it `npm start`
 - You should now be able to see everything running on http://localhost:8080

@@ -2,9 +2,9 @@
 title: Participant Guide
 metaDescription: Helpful information for participants in unitaryDESIGN
 date: 2025-11-20
-permalink: /hacker-guide/index.html
+permalink: /participant-guide/index.html
 eleventyNavigation:
-  key: Hackers
+  key: Participants
   order: 2
 ---
 
@@ -19,7 +19,7 @@ No matter your experience in quantum tech or open source communities, you can he
 > - **March 6th**: Awardees finalized and contacted.
 
 
-## ⌚ Before the Hack ⌚
+## ⌚ Before the Event ⌚
 
 [REGISTER HERE!]({{ '/register' | url }}) You'll need to be registered in order to receive awards.
 
@@ -46,7 +46,7 @@ Whether you are new to quantum technologies or work on them every day, here is a
 * [NVIDIA's CUDA-Q Academic](https://github.com/NVIDIA/cuda-q-academic)
 
 
-## 🔨 During the Hack 🔨
+## 🔨 During the event 🔨
 
 
 ### Join the discord
@@ -72,7 +72,7 @@ We ask that you not have more than 4 pull requests open at one time across all u
 **If your pull request is accepted, in order for our bots to find it you'll need the project maintainers to assign the issue to you.** If it's your first time contributing to the project, you'll need to comment on the issue in order to be "assignable". We ask that you not comment on more than 3-4 projects per day. This is to ensure that you are not overwhelming yourself, the maintainers, or your fellow participants. Once again, please don't comment on projects and ask to be added as an assignee. **The maintainers will only assign a project to you if they'd like to close the issue with your solution.**
 
 
-## 🎉 After the Hack 🎉
+## 🎉 After the event 🎉
 
 If you claimed any bounties, we will be in touch via email after unitaryDESIGN to coordinate payment, so make sure you sign up so we can connect your GitHub username to your contact info! 
 

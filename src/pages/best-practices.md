@@ -1,12 +1,12 @@
 ---
-title: Best Practices for unitaryHACK Issues
+title: Best Practices for unitaryDESIGN Issues
 date: 2025-03-20
-metaDescription: Best Practices for unitaryHACK Issues
+metaDescription: Best Practices for unitaryDESIGN Issues
 permalink: /best-practices/index.html
 ---
 
 So you’re a maintainer of an open-source quantum software package – neato!
-And you’re participating in unitaryHACK this year – huzzah!
+And you’re participating in unitaryDESIGN this year – huzzah!
 
 This guide will help you create and curate issues on your GitHub repo that new contributors will be eager to work on and help reduce friction in the development process. 
 
@@ -19,7 +19,7 @@ You are an expert on your software project, but new people? Not so much. Allow m
 
 You want high-quality contributors, right? You probably also want to help them get up and running while minimizing the time going back and forth, answering basic questions about your project.
 
-The tips in this guide are good practice in general, but in particular in UnitaryHack, where people are competing to close issues with *cash bounties*, the stakes for creating a well-scoped issue are heightened. If you believe me, read on!
+The tips in this guide are good practice in general, but in particular in UnitaryDESIGN, where people are competing to close issues with *cash bounties*, the stakes for creating a well-scoped issue are heightened. If you believe me, read on!
 
 ## Best practices guide
 
@@ -59,7 +59,7 @@ Example of Best Practice 4 from [HierarQcal](https://github.com/matt-lourens/hie
 
 <img src="{{ '/assets/img/BP_4.webp' | url }}" alt="GitHub screenshot"/>
 
-## General best practices (beyond UnitaryHack):
+## General best practices (beyond UnitaryDESIGN):
 
 * **Consider creating Github issue templates (check out [UCC for examples](https://github.com/unitaryfoundation/ucc/tree/main/.github/ISSUE_TEMPLATE))**: These help the person submitting the issue scope it well from the start, e.g. including an MRE, explaining the context and alternatives considered, etc.
 

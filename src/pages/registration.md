@@ -1,6 +1,6 @@
 ---
 title: Registration
-metaDescription: Register for unitaryHACK!
+metaDescription: Register for unitaryDESIGN!
 permalink: /register/index.html
 eleventyNavigation:
   key: Registration

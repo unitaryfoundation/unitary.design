@@ -1,9 +1,9 @@
 ---
 layout: projects.njk
-title: Hackathon Projects
+title: Participating Projects
 date: 2023-03-29
 permalink: /projects/index.html
-metaDescription: All unitaryHACK participating projects
+metaDescription: All unitaryDESIGN participating projects
 emoji: 💻
 eleventyNavigation:
   key: Projects
