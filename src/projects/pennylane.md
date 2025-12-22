@@ -8,6 +8,7 @@ summary: PennyLane is an open-source quantum software ecosystem for designing, c
 tags:
   - quantum algorithms
   - compilation
+  - python
 bounties:
   # - issue_num:
   #   value:
