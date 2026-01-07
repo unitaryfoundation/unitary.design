@@ -1,6 +1,6 @@
 ---
 title: zxlive
-emoji: 🚧
+emoji: 🪄
 project_url: https://github.com/zxcalc/zxlive
 metaDescription: Description TBD.
 date: 2025-12-01
