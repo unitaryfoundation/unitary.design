@@ -21,7 +21,7 @@ We have some outlines below for what you can expect before and during the event,
 > - **November-December** Maintainers begin to submit bounties for review
 > - **January 7th** Final deadline to submit bounties
 > - **February 9th** All issues and bounties must be finalized
-> - **February 10th at 9am PT** Maintainers' get together + Q&A
+> - **February 9th at 9am PT** Maintainers' get together + Q&A
 >   - Review of the event + rules
 >   - Answer any questions folks have about the event
 >   - Give a short intro about your project
