@@ -1,5 +1,5 @@
 ---
-title: Quantify and Juice
+title: Quantify
 emoji: 🍊
 project_url: https://gitlab.com/quantify-os/quantify
 metaDescription: Quantify is a hardware-agnostic framework  designed to allow experimentalists to easily define complex quantum experiments.
