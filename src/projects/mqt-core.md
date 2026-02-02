@@ -17,8 +17,17 @@ tags:
   - neutral atoms
   - quantum software stack
 bounties:
-  # - issue_num: 644
-  #   value: 100
+  - issue_num: 1452
+    value: 150
+  - issue_num: 1459
+    value: 50
+  - issue_num: 1456
+    value: 50
+  - issue_num: 1460
+    value: 100
+  - issue_num: 310
+    value: 150
+    repo: Munich-Quantum-Software-Stack/QDMI
 ---
 
 Quantum computers are becoming a reality and numerous quantum computing applications with a near-term perspective (e.g., for finance, chemistry, machine learning, and optimization) and with a long-term perspective (e.g., for cryptography or unstructured search) are currently being investigated. However, designing and realizing potential applications for these devices in a scalable fashion requires automated, efficient, and user-friendly software tools that cater to the needs of end users, engineers, and physicists at every level of the entire quantum software stack. Many of the problems to be tackled in that regard are similar to design problems from the classical realm for which sophisticated design automation tools have been developed in the previous decades.

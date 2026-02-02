@@ -10,8 +10,12 @@ tags:
   - matrix analysis
   - linear algebra
 bounties:
-  # - issue_num: 1081
-  #   value: 150
+  - issue_num: 1358
+    value: 160
+  - issue_num: 1356
+    value: 160
+  - issue_num: 1357
+    value: 180
 ---
 
 (Theory of Quantum Information Toolkit)

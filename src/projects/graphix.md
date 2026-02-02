@@ -11,8 +11,14 @@ tags:
   - python
   - optics
 bounties:
-  # - issue_num: 281
-  #   value: 150
+  - issue_num: 386
+    value: 25
+  - issue_num: 387
+    value: 150
+  - issue_num: 388
+    value: 125
+  - issue_num: 365
+    value: 200
 ---
 
 Graphix is a measurement-based quantum computing (MBQC) software package, featuring

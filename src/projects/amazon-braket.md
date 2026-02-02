@@ -11,8 +11,16 @@ tags:
   - openqasm
   - pulse control
 bounties:
-  # - issue_num: 973
-  #   value: 100
+  - issue_num: 1186
+    value: 70
+  - issue_num: 1187
+    value: 70
+  - issue_num: 1193
+    value: 90
+  - issue_num: 1194
+    value: 90
+  - issue_num: 1192
+    value: 180
 ---
 
 The Amazon Braket Python SDK is an open source library that provides a framework that you can use to interact with quantum computing hardware devices through Amazon Braket.
