@@ -11,8 +11,16 @@ tags:
   - compilation
   - visualisation 
 bounties:
-  # - issue_num:
-  #   value:
+  - issue_num: 135
+    value: 100
+  - issue_num: 72
+    value: 100
+  - issue_num: 71
+    value: 100
+  - issue_num: 162
+    value: 100
+  - issue_num: 134
+    value: 100
 ---
 
 Deltakit is a Python package providing a toolkit to create, execute, analyse and benchmark quantum error correction (QEC) experiments. You can use Deltakit to design new high-level QEC logic, and to compile and run it on real hardware and simulators.

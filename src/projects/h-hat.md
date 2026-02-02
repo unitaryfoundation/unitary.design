@@ -10,8 +10,14 @@ tags:
   - programming language
   - compiler
 bounties:
-  # - issue_num: 38
-  #   value: 50
+  - issue_num: 93
+    value: 50
+  - issue_num: 94
+    value: 250
+  - issue_num: 95
+    value: 100
+  - issue_num: 96
+    value: 100
 ---
 
 **What H-hat is**
