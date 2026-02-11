@@ -1,10 +1,10 @@
 ---
 title: Metriq
 emoji: 📊️📏
-project_url: https://github.com/unitaryfoundation/metriq-app
-metaDescription: Metriq is a community-driven platform for hosting quantum benchmarks.
+project_url: https://github.com/unitaryfoundation/metriq
+metaDescription: Metriq is a collaborative platform for benchmarking quantum computers.
 date: 2025-04-10
-summary: Metriq is a community-driven platform for hosting quantum benchmarks.
+summary: Metriq is a collaborative platform for benchmarking quantum computers.
 tags:
   - benchmarking
 bounties:
@@ -12,4 +12,9 @@ bounties:
   #   value: 100
 ---
 
-There has been rapid progress in quantum computing, but it can be hard to track that progress. Researchers want to know how to compare against the state of the art and users want to know what tools best suit them. Metriq is a free and open source platform that helps anyone better answer this question for themselves. Researchers and developers in academia and industry can submit results on existing benchmarks or propose new benchmarking tasks to the community. Results include sources and are openly accessible. It is free to sign up and submit. Metriq accelerates research by upgrading the taxonomy of reported results that are often now locked away in tables of review papers. By making the data explorable and live-updated we’ll be able to make better progress together to develop quantum technology.
+Metriq is a free and open source platform that helps researchers and developers benchmark quantum computers. It provides a collaborative environment where users can share their benchmarking results, compare different quantum devices, discuss methodologies, and contribute to the development of new benchmarks.
+
+It consists of three main components, including 
+- metriq-gym: a Python toolkit for running benchmarks and submitting results to the platform,
+- metriq-data: a dataset of benchmarking results from various quantum devices, and
+- metriq-web: a website for sharing, visualizing, and discussing the dataset.
