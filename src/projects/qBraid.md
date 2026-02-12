@@ -10,6 +10,8 @@ tags:
   - openqasm
   - compiler
   - semantic analysis
+  - runtime
+  - transpiler
 bounties:
   # - issue_num: 53
   #   value: 150
