@@ -1,6 +1,6 @@
 ---
 title: Art with Quantum Dynamics
-id: quantumarthack
+id: quantumbrush
 emoji: 🖌️🎨
 project_url: https://github.com/moth-quantum/QuantumBrush
 metaDescription: Simulating quantum dynamics can be used for science. But let's also use it for art!
