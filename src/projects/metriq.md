@@ -8,8 +8,18 @@ summary: Metriq is a collaborative platform for benchmarking quantum computers.
 tags:
   - benchmarking
 bounties:
-  # - issue_num: 985
-  #   value: 100
+  - issue_num: 299
+    value: 125
+    repo: unitaryfoundation/metriq-data
+  - issue_num: 317
+    value: 125
+    repo: unitaryfoundation/metriq-web
+  - issue_num: 318
+    value: 125
+    repo: unitaryfoundation/metriq-web
+  - issue_num: 319
+    value: 125
+    repo: unitaryfoundation/metriq-web
 ---
 
 Metriq is a free and open source platform that helps researchers and developers benchmark quantum computers. It provides a collaborative environment where users can share their benchmarking results, compare different quantum devices, discuss methodologies, and contribute to the development of new benchmarks.
