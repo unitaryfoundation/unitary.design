@@ -1,2 +1,580 @@
 {
+  "amazon-braket-sdk-python": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Headings and descriptions for API reference",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1186",
+        "value": 70
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Keep examples in documentation up-to-date automatically",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1187",
+        "value": 70
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Expand the Braket algorithm library - 1",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1193",
+        "value": 90
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Expand the Braket algorithm library - 2",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1194",
+        "value": 90
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add script to display recent scientific publications using Amazon Braket in README",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1192",
+        "value": 180
+      }
+    ],
+    "emoji": "\u269b\ufe0f\ud83d\udcbb",
+    "name": "Amazon Braket SDK",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
+  },
+  "core": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "\ud83d\udcdd  MLIR - Getting Started Guide",
+        "url": "https://github.com/munich-quantum-toolkit/core/issues/1452",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "\ud83d\udcdd Add repository instructions for AI tooling",
+        "url": "https://github.com/munich-quantum-toolkit/core/issues/1459",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "\ud83d\udcdd Improve developer documentation",
+        "url": "https://github.com/munich-quantum-toolkit/core/issues/1456",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "\ud83c\udf71 Create logo and illustrations for MLIR Compiler Infrastructure",
+        "url": "https://github.com/munich-quantum-toolkit/core/issues/1460",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "\ud83d\udcdd Full-fledged and Interactive Tutorial on QDMI Device Implementation",
+        "url": "https://github.com/Munich-Quantum-Software-Stack/QDMI/issues/310",
+        "value": 150
+      }
+    ],
+    "emoji": "\u269b\ufe0f",
+    "name": "MQT Core",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/munich-quantum-toolkit/core"
+  },
+  "deltakit": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "request: visualise detection probability on patch",
+        "url": "https://github.com/Deltakit/deltakit/issues/135",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "request: refactor and consolidate `draw_patch` methods",
+        "url": "https://github.com/Deltakit/deltakit/issues/72",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "request: Consolidate `correlation_matrix` and `plot_correlation_matrix`",
+        "url": "https://github.com/Deltakit/deltakit/issues/71",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "request: Improvements on plotting LEPPR and Lambda",
+        "url": "https://github.com/Deltakit/deltakit/issues/162",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "request: support asymmetric error-bars in `deltakit.analysis`",
+        "url": "https://github.com/Deltakit/deltakit/issues/134",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83d\udd3c",
+    "name": "Deltakit",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/Deltakit/deltakit"
+  },
+  "graphix": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "New method `fidelity` for `Statevec`",
+        "url": "https://github.com/TeamGraphix/graphix/issues/386",
+        "value": 25
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Improve method `Pattern.draw_graph`",
+        "url": "https://github.com/TeamGraphix/graphix/issues/387",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Interactive tool for  `Pattern.draw_graph`",
+        "url": "https://github.com/TeamGraphix/graphix/issues/388",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Interface with MQTBench for simulator benchmarking",
+        "url": "https://github.com/TeamGraphix/graphix/issues/365",
+        "value": 200
+      }
+    ],
+    "emoji": "\ud83d\udd78\ufe0f",
+    "name": "graphix",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/TeamGraphix/graphix"
+  },
+  "hhat_lang": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[IMPL] Add README.md on `python/` subfolders",
+        "url": "https://github.com/hhat-lang/hhat_lang/issues/93",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[IMPL] Define icon, logo, color pallet, etc. for the project",
+        "url": "https://github.com/hhat-lang/hhat_lang/issues/94",
+        "value": 250
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[IMPL] Reorganize documentation",
+        "url": "https://github.com/hhat-lang/hhat_lang/issues/95",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[IMPL] Create syntax highlighting using `pygments`",
+        "url": "https://github.com/hhat-lang/hhat_lang/issues/96",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83c\udfa9\ud83d\udc52",
+    "name": "H-hat quantum programming language",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/hhat-lang/hhat_lang"
+  },
+  "metriq": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Example standalone analysis using raw and/or aggregated datasets",
+        "url": "https://github.com/unitaryfoundation/metriq-data/issues/299",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Results Graph UX overhaul",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/317",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Guided walkthrough tour of the new app",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/318",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Responsive design audit for new Metriq app",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/319",
+        "value": 125
+      }
+    ],
+    "emoji": "\ud83d\udcca\ufe0f\ud83d\udccf",
+    "name": "Metriq",
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
+    "url": "https://github.com/unitaryfoundation/metriq"
+  },
+  "oqd-teaching-demo": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "unitaryDESIGN 2026: Build an interactive teaching tool for quantum computing",
+        "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo/issues/3",
+        "value": 250
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "unitaryDESIGN 2026: Build an interactive web application for defining quantum simulation programs",
+        "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo/issues/4",
+        "value": 250
+      }
+    ],
+    "emoji": "\ud83d\udca1",
+    "name": "Open Quantum Design",
+    "num_bounties": 2,
+    "num_open_bounties": 2,
+    "total_amount": 500,
+    "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo"
+  },
+  "piccolo.jl": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN] Documentation Improvement for AI Agents",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/61",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN] Neutral Atom Chain Visualization",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/60",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN] Animation of a Pulse Evolving with Parameters",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/59",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN] Visualization of a 2-Qubit Gate",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/58",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN] Visual Design of a Bosonic Qubit in Wigner Function Space",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/57",
+        "value": 125
+      }
+    ],
+    "emoji": "\ud83e\ude88\ud83c\udfb6",
+    "name": "Piccolo.jl (Harmoniqs)",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/harmoniqs/Piccolo.jl"
+  },
+  "qbraid": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "qBraid Brand Design System  [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/qBraid/issues/1115",
+        "value": 300
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Logos for qBraid's product suite [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/qBraid/issues/1120",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Recreate and Refine the PyQASM Logo [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/pyqasm/issues/287",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
+    "name": "qBraid",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/qBraid/qBraid"
+  },
+  "qml": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Make a PennyLane puzzle in the PennyLane drawing style",
+        "url": "https://github.com/pennylaneai/qml/issues/1634",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Create an animated GIF about PennyLane, Catalyst, a PennyLane Demo, or a quantum computing concept",
+        "url": "https://github.com/pennylaneai/qml/issues/1635",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Make a short video (30-60s) explaining a quantum computing concept or PennyLane Demo",
+        "url": "https://github.com/pennylaneai/qml/issues/1636",
+        "value": 250
+      }
+    ],
+    "emoji": "\ud83c\udf04",
+    "name": "PennyLane",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/pennylaneai/qml"
+  },
+  "qosf.org": {
+    "amount_available": 270,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Tool to draw quantum circuits with creative styles",
+        "url": "https://github.com/qosf/qosf.org/issues/124",
+        "value": 110
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "General template for QOSF resources",
+        "url": "https://github.com/qosf/qosf.org/issues/125",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Design a monthly challenge",
+        "url": "https://github.com/qosf/qosf.org/issues/126",
+        "value": 110
+      }
+    ],
+    "emoji": "\ud83c\udf10",
+    "name": "QOSF",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 270,
+    "url": "https://github.com/qosf/qosf.org"
+  },
+  "quantify": {
+    "amount_available": 300,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "closed",
+        "title": "[unitaryDESIGN 2026] Data Handling Architecture (Design\u2011Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/140",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN 2026] Documentation Chatbot UX (Design\u2011Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/139",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[unitaryDESIGN 2026] Quantify Homepage Redesign (Design-Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/138",
+        "value": 150
+      }
+    ],
+    "emoji": "\ud83c\udf4a",
+    "name": "Quantify",
+    "num_bounties": 3,
+    "num_open_bounties": 2,
+    "total_amount": 500,
+    "url": "https://gitlab.com/quantify-os/quantify"
+  },
+  "quantumbrush": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Unwanted Dots or Micro-length Brush Path while Switching Windows",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/30",
+        "value": 30
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Unexpected behaviour from Drawing Straight (Horizontal/Vertical) Lines",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/31",
+        "value": 30
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Refactoring] Improve UX/UI of the App with Code Implementation",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/32",
+        "value": 300
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Creative Challenge] Making Your Own Quantum Brush!",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/33",
+        "value": 40
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Creative Challenge] Make Your Own Creative Application with Quantum Computing!",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/34",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83d\udd8c\ufe0f\ud83c\udfa8",
+    "name": "Art with Quantum Dynamics",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/moth-quantum/QuantumBrush"
+  },
+  "toqito": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Geometrically based tutorial on quantum state discrimination",
+        "url": "https://github.com/vprusso/toqito/issues/1358",
+        "value": 160
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Enhance portability of logo and incorporate in swag",
+        "url": "https://github.com/vprusso/toqito/issues/1356",
+        "value": 160
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Create a homepage for the toqito project",
+        "url": "https://github.com/vprusso/toqito/issues/1357",
+        "value": 180
+      }
+    ],
+    "emoji": "\ud83c\udf2e\u269b\ufe0f",
+    "name": "toqito",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/vprusso/toqito"
+  },
+  "zxlive": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Proof step thumbnails like a filmstrip view",
+        "url": "https://github.com/zxcalc/zxlive/issues/425",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Support LaTeX expressions on blank nodes",
+        "url": "https://github.com/zxcalc/zxlive/issues/388",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Copy and paste doesn't bring parameters",
+        "url": "https://github.com/zxcalc/zxlive/issues/363",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Highlight difference in rewrite steps",
+        "url": "https://github.com/zxcalc/zxlive/issues/190",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Expandable group rewrites",
+        "url": "https://github.com/zxcalc/zxlive/issues/292",
+        "value": 100
+      }
+    ],
+    "emoji": "\ud83e\ude84",
+    "name": "zxlive",
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
+    "url": "https://github.com/zxcalc/zxlive"
+  }
 }
