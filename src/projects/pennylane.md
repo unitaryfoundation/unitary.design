@@ -1,5 +1,6 @@
 ---
 title: PennyLane
+id: qml
 emoji: 🌄
 project_url: https://github.com/pennylaneai/qml
 metaDescription: PennyLane is an open-source quantum software ecosystem for designing, compiling, and analyzing meaningful quantum algorithms.

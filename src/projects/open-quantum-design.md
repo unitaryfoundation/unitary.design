@@ -1,6 +1,6 @@
 ---
 title: Open Quantum Design
-id: oqd-core
+id: oqd-teaching-demo
 emoji: 💡
 project_url: https://github.com/OpenQuantumDesign/oqd-teaching-demo
 metaDescription: Building the world's first open-source, full-stack quantum computer
