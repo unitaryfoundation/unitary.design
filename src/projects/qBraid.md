@@ -13,8 +13,13 @@ tags:
   - runtime
   - transpiler
 bounties:
-  # - issue_num: 53
-  #   value: 150
+  - issue_num: 1115
+    value: 300
+  - issue_num: 1120
+    value: 100
+  - issue_num: 287
+    value: 100
+    repo: qBraid/pyqasm
 ---
 
 The [qBraid-SDK](https://docs.qbraid.com/v2/sdk/user-guide/overview) is a platform-agnostic quantum runtime framework designed for both quantum software and hardware providers. This Python-based tool streamlines the full lifecycle management of quantum jobs—from defining program specifications to job submission and through to the post-processing and visualization of results.
