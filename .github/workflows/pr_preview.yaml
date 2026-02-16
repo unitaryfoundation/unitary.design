@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  pages: write
 
 concurrency:
   group: "pr-preview-${{ github.ref }}"
@@ -50,7 +51,7 @@ jobs:
           preview-branch: gh-pages
           umbrella-dir: pr-preview
           pages-base-url: unitaryfoundation.github.io/unitary.design
-          wait-for-pages-deployment: true
+          wait-for-pages-deployment: false
           action: auto
 
       - name: Preview skipped for fork PR
