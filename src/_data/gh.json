@@ -500,7 +500,7 @@
     "url": "https://github.com/moth-quantum/QuantumBrush"
   },
   "toqito": {
-    "amount_available": 500,
+    "amount_available": 340,
     "bounties": [
       {
         "assignees": [],
@@ -510,8 +510,10 @@
         "value": 160
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "DavinderJolly"
+        ],
+        "state": "closed",
         "title": "Enhance portability of logo and incorporate in swag",
         "url": "https://github.com/vprusso/toqito/issues/1356",
         "value": 160
@@ -527,7 +529,7 @@
     "emoji": "\ud83c\udf2e\u269b\ufe0f",
     "name": "toqito",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
