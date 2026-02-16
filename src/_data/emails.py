@@ -46,7 +46,7 @@ for hacker in hackers:
         bounty = hacker["bounties"][0]
         email_contents += f' Our records indicate you were responsible for closing "[{bounty["title"]}]({bounty["url"]})" worth \${bounty["value"]}. '
 
-    email_contents += f"Hence, your total payout is **${hacker['total_value']}USD**! This information is also summarized at https://unitaryhack.dev/hackers/{username}/."
+    email_contents += f"Hence, your total payout is **${hacker['total_value']}USD**! This information is also summarized at https://unitary.design/hackers/{username}/."
     email_contents += """ It's now time to get you paid! We'll need to collect some information from you in order to make this happen. Would you please submit a (single!) response to [this form](https://airtable.com/app5sTD1ailjCEft1/pagAP2GlpYyheivGA/form) at your earliest convenience? Once we have the necessary information, we can begin processing your payment."""
 
     with open(f"emails/{username}.md", "w") as f:
