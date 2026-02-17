@@ -12,14 +12,12 @@ tags:
   - experimental physics
 scrape: false
 bounties:
-  - issue_num: 140
-    value: 200
-  - issue_num: 139
-    value: 150
   - issue_num: 138
     value: 150
-  - issue_num: 146
+  - issue_num: 139
     value: 150
+  - issue_num: 146
+    value: 200
 ---
 
 Quantify is a Python-based data acquisition framework focused on Quantum Computing and solid-state physics experiments. 
