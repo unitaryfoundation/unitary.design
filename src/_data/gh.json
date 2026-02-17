@@ -140,13 +140,13 @@
     "url": "https://github.com/Deltakit/deltakit"
   },
   "graphix": {
-    "amount_available": 500,
+    "amount_available": 475,
     "bounties": [
       {
         "assignees": [
           "CodeMaverick2"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "New method `fidelity` for `Statevec`",
         "url": "https://github.com/TeamGraphix/graphix/issues/386",
         "value": 25
@@ -176,7 +176,7 @@
     "emoji": "\ud83d\udd78\ufe0f",
     "name": "graphix",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/TeamGraphix/graphix"
   },
@@ -330,7 +330,7 @@
     "url": "https://github.com/harmoniqs/Piccolo.jl"
   },
   "qbraid": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -350,7 +350,7 @@
         "assignees": [
           "ACE07-Sev"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Recreate and Refine the PyQASM Logo [unitaryDESIGN]",
         "url": "https://github.com/qBraid/pyqasm/issues/287",
         "value": 100
@@ -359,7 +359,7 @@
     "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
     "name": "qBraid",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },

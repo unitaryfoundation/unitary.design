@@ -2,6 +2,32 @@
   {
     "bounties": [
       {
+        "project": "qbraid",
+        "title": "Recreate and Refine the PyQASM Logo [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/pyqasm/issues/287",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100,
+    "username": "ACE07-Sev"
+  },
+  {
+    "bounties": [
+      {
+        "project": "graphix",
+        "title": "New method `fidelity` for `Statevec`",
+        "url": "https://github.com/TeamGraphix/graphix/issues/386",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25,
+    "username": "CodeMaverick2"
+  },
+  {
+    "bounties": [
+      {
         "project": "toqito",
         "title": "Enhance portability of logo and incorporate in swag",
         "url": "https://github.com/vprusso/toqito/issues/1356",
