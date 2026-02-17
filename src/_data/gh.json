@@ -428,14 +428,14 @@
     "url": "https://github.com/qosf/qosf.org"
   },
   "quantify": {
-    "amount_available": 300,
+    "amount_available": 500,
     "bounties": [
       {
         "assignees": [],
-        "state": "closed",
-        "title": "[unitaryDESIGN 2026] Data Handling Architecture (Design\u2011Only)",
-        "url": "https://gitlab.com/quantify-os/quantify/-/issues/140",
-        "value": 200
+        "state": "open",
+        "title": "[unitaryDESIGN 2026] Quantify Homepage Redesign (Design-Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/138",
+        "value": 150
       },
       {
         "assignees": [],
@@ -447,15 +447,15 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "[unitaryDESIGN 2026] Quantify Homepage Redesign (Design-Only)",
-        "url": "https://gitlab.com/quantify-os/quantify/-/issues/138",
-        "value": 150
+        "title": "[unitaryDESIGN 2026] Quantify 101 Visual Explainer Pack (Design-Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/146",
+        "value": 200
       }
     ],
     "emoji": "\ud83c\udf4a",
     "name": "Quantify",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://gitlab.com/quantify-os/quantify"
   },
