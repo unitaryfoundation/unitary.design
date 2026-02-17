@@ -143,7 +143,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "CodeMaverick2"
+        ],
         "state": "open",
         "title": "New method `fidelity` for `Statevec`",
         "url": "https://github.com/TeamGraphix/graphix/issues/386",
@@ -456,18 +458,22 @@
     "url": "https://gitlab.com/quantify-os/quantify"
   },
   "quantumbrush": {
-    "amount_available": 500,
+    "amount_available": 440,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "sagnikpal2004"
+        ],
+        "state": "closed",
         "title": "Unwanted Dots or Micro-length Brush Path while Switching Windows",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/30",
         "value": 30
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "sagnikpal2004"
+        ],
+        "state": "closed",
         "title": "Unexpected behaviour from Drawing Straight (Horizontal/Vertical) Lines",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/31",
         "value": 30
@@ -497,7 +503,7 @@
     "emoji": "\ud83d\udd8c\ufe0f\ud83c\udfa8",
     "name": "Art with Quantum Dynamics",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/moth-quantum/QuantumBrush"
   },

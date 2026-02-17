@@ -11,5 +11,24 @@
     "num_projects": 1,
     "total_value": 160,
     "username": "DavinderJolly"
+  },
+  {
+    "bounties": [
+      {
+        "project": "quantumbrush",
+        "title": "Unwanted Dots or Micro-length Brush Path while Switching Windows",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/30",
+        "value": 30
+      },
+      {
+        "project": "quantumbrush",
+        "title": "Unexpected behaviour from Drawing Straight (Horizontal/Vertical) Lines",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/31",
+        "value": 30
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 60,
+    "username": "sagnikpal2004"
   }
 ]
