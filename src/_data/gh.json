@@ -123,7 +123,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "neogyk"
+        ],
         "state": "open",
         "title": "request: support asymmetric error-bars in `deltakit.analysis`",
         "url": "https://github.com/Deltakit/deltakit/issues/134",
