@@ -1,0 +1,141 @@
+<!doctype html><html data-enable-theme-switch="true" data-use-system-theme="false" data-default-theme="light" data-path-prefix="/pr-preview/pr-26/" lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Posts tagged “{{ tag }}”</title><meta name="description" content="All posts from the Blog tagged with “{{ tag }}”"><link rel="dns-prefetch" href="https://identity.netlify.com"><script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="/pr-preview/pr-26/assets/css/main.css" data-build-path="/pr-preview/pr-26/assets/css/main.css"><script>// Initialize theme
+    // Must run before page rendering to prevent flash
+    const themeConfig = document.documentElement.dataset;
+    const theme = localStorage.getItem('theme');
+
+    if (theme) {
+      themeConfig.theme = theme;
+    } else {
+      const defaultTheme = themeConfig.defaultTheme;
+      const useSystemTheme = themeConfig.useSystemTheme === 'true';
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+      themeConfig.theme = (useSystemTheme && prefersDark) ? 'dark' : defaultTheme;
+    }</script><script defer="defer" src="/pr-preview/pr-26/assets/js/main.bundle.js" data-build-path="/pr-preview/pr-26/assets/js/main.bundle.js"></script><script>(
+      var runRewrite = function () {
+        var pathPrefix = document.documentElement.dataset.pathPrefix || '/';
+        if (pathPrefix !== '/' && !pathPrefix.endsWith('/')) {
+          pathPrefix += '/';
+        }
+
+        var pathname = window.location.pathname;
+        var marker = '/_site/';
+        var markerIndex = pathname.indexOf(marker);
+
+        if (markerIndex === -1) {
+          return;
+        }
+
+        var siteRoot = 'file://' + pathname.slice(0, markerIndex + marker.length);
+        var shouldSkip = function (value) {
+          return !value ||
+            value.startsWith('http://') ||
+            value.startsWith('https://') ||
+            value.startsWith('//') ||
+            value.startsWith('mailto:') ||
+            value.startsWith('tel:') ||
+            value.startsWith('#') ||
+            value.startsWith('data:');
+        };
+
+        var stripPrefix = function (value) {
+          if (pathPrefix !== '/' && value.indexOf(pathPrefix) === 0) {
+            var stripped = value.slice(pathPrefix.length);
+            return stripped.charAt(0) === '/' ? stripped : '/' + stripped;
+          }
+
+          return value;
+        };
+
+        var rewriteValue = function (value) {
+          if (shouldSkip(value)) {
+            return value;
+          }
+
+          if (value.charAt(0) === '/') {
+            var normalized = stripPrefix(value);
+            return siteRoot + normalized.slice(1);
+          }
+
+          return value;
+        };
+
+        var rewriteAttribute = function (node, attr) {
+          if (!node.hasAttribute(attr)) {
+            return;
+          }
+
+          var original = node.getAttribute(attr);
+          var rewritten = rewriteValue(original);
+
+          if (rewritten !== original) {
+            node.setAttribute(attr, rewritten);
+          }
+        };
+
+        var rewriteSrcset = function (node, attr) {
+          if (!node.hasAttribute(attr)) {
+            return;
+          }
+
+          var original = node.getAttribute(attr);
+
+          if (!original) {
+            return;
+          }
+
+          var rewritten = original.split(',').map(function (entry) {
+            var part = entry.trim();
+
+            if (!part) {
+              return part;
+            }
+
+            var spaceIndex = part.indexOf(' ');
+            var url = spaceIndex === -1 ? part : part.slice(0, spaceIndex);
+            var descriptor = spaceIndex === -1 ? '' : part.slice(spaceIndex + 1);
+            var updated = rewriteValue(url);
+
+            return descriptor ? (updated + ' ' + descriptor) : updated;
+          }).join(', ');
+
+          if (rewritten !== original) {
+            node.setAttribute(attr, rewritten);
+          }
+        };
+
+        var nodes = document.querySelectorAll('[data-build-path]');
+        nodes.forEach(function (node) {
+          rewriteAttribute(node, 'href');
+          rewriteAttribute(node, 'src');
+        });
+
+        var selectors = [
+          { selector: 'link[href]', attr: 'href', type: 'attr' },
+          { selector: 'script[src]', attr: 'src', type: 'attr' },
+          { selector: 'img[src]', attr: 'src', type: 'attr' },
+          { selector: 'img[srcset]', attr: 'srcset', type: 'srcset' },
+          { selector: 'source[src]', attr: 'src', type: 'attr' },
+          { selector: 'source[srcset]', attr: 'srcset', type: 'srcset' },
+          { selector: 'a[href]', attr: 'href', type: 'attr' },
+        ];
+
+        selectors.forEach(function (entry) {
+          var elements = document.querySelectorAll(entry.selector);
+
+          elements.forEach(function (node) {
+            if (entry.type === 'srcset') {
+              rewriteSrcset(node, entry.attr);
+            } else {
+              rewriteAttribute(node, entry.attr);
+            }
+          });
+        });
+      };
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', runRewrite);
+      } else {
+        runRewrite();
+      }
+    })();</script></head><body><div class="wrapper-bg-wrapper"><div class="wrapper-bg"></div></div><header class="site-header"><div class="site-header__container"><span class="site-header__logo-container"><a class="site-header__logo" href="/pr-preview/pr-26/" aria-label="Logo"><svg width="327" height="109" viewBox="0 0 327 109" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.0862427 0.331614L288.947 -6.01025e-06V53.8342L326.569 54.1658V108H0.0862427V0.331614Z" fill="#FFFF00"/><path d="M271.682 47.6178L256.672 62.4552H249.685V56.6755L259.087 47.6178H235.796V11.7319H244.681V38.7326H262.797V11.7319H271.682V47.6178Z" fill="black"/><path d="M227.698 11.7319V29.5023H218.468V20.6171H208.634V47.6178H199.403V11.7319H227.698Z" fill="black"/><path d="M190.396 11.6455V47.5314H154.165V25.9654H181.166V20.0994H154.165V11.6455H190.396ZM181.166 39.5088V33.2978H163.396V39.5088H181.166Z" fill="black"/><path d="M126.911 20.6171V38.7326H145.026V47.6178H118.026V0H126.911V11.7319H145.026V20.6171H126.911Z" fill="black"/><path d="M108.799 0.172363V7.15976H99.9134V0.172363H108.799ZM99.9134 12.2493H108.799V47.6176H99.9134V12.2493Z" fill="black"/><path d="M90.6454 11.7319V47.6178H81.7602V20.6171H63.6448V47.6178H54.7596V11.7319H90.6454Z" fill="black"/><path d="M45.2024 47.6176H0.0862427V2.50146H9.3165V38.7324H36.3172V2.50146H45.2024V47.6176Z" fill="black"/><path d="M308.62 63.3545V108.471H299.735L272.734 77.5018V108.471H263.849V63.3545H272.734L299.735 94.3233V63.3545H308.62Z" fill="black"/><path d="M245.828 99.2404V90.3552H232.112V81.47H254.713V108.471H209.597V63.3545H254.713V72.2397H218.827V99.2404H245.828Z" fill="black"/><path d="M186.043 72.2397V99.2404H200.191V108.471H163.011V99.2404H177.158V72.2397H163.011V63.3545H200.191V72.2397H186.043Z" fill="black"/><path d="M117.73 72.5849V81.4701H153.616V108.471H108.845V99.5856H144.731V90.7004H108.845V63.6997H153.616V72.5849H117.73Z" fill="black"/><path d="M62.9789 72.2397V81.47H98.8647V90.3552H62.9789V99.2404H98.8647V108.471H53.7486V63.3545H98.8647V72.2397H62.9789Z" fill="black"/><path d="M45.1161 79.9174V92.2531L27.3457 108.471H0V63.6997H27.3457L45.1161 79.9174ZM36.2309 86.2146L21.566 72.5849H9.23026V99.5856H21.566L36.2309 86.2146Z" fill="black"/></svg> </a></span><button class="site-header__mobile-nav" data-drawer-trigger="" aria-controls="drawer-name" aria-expanded="false"><span class="site-header__mobile-nav-label">Menu</span> <svg width="226" height="187" viewBox="0 0 226 187" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 0H225.311V22.8494H0V0Z" fill="currentColor"/><path d="M0 81.872H225.311V104.721H0V81.872Z" fill="currentColor"/><path d="M0 163.744H225.311V186.593H0V163.744Z" fill="currentColor"/></svg></button><nav class="site-header__nav"><ul class="site-header__items"><li class="site-header__item"><a class="site-header__link" href="/pr-preview/pr-26/projects/">Projects</a></li><li class="site-header__item"><a class="site-header__link" href="/pr-preview/pr-26/participant-guide/">Participants</a></li><li class="site-header__item"><a class="site-header__link" href="/pr-preview/pr-26/bounties/">Bounties</a></li><li class="site-header__item"><a class="site-header__link" href="/pr-preview/pr-26/leaderboard/">Leaderboard</a></li><li class="site-header__item"><a class="site-header__link" href="/pr-preview/pr-26/project-guide/">Maintainers</a></li><li class="site-header__item"><a class="site-header__link" href="/pr-preview/pr-26/rules/">Rules</a></li></ul></nav></div></header><section class="drawer" id="drawer-name" data-drawer-target><div class="drawer__overlay" data-drawer-close tabindex="-1"></div><div class="drawer__wrapper"><div class="drawer__header"><button class="drawer__close" data-drawer-close aria-label="Close Drawer"><svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 3.84294L3.84294 0L22.4996 18.7131L41.2127 0L45 3.84294L26.3425 22.4996L45 41.2127L41.2127 45L22.4996 26.3425L3.84294 45L0 41.2127L18.7131 22.4996L0 3.84294Z" fill="currentColor"/></svg></button></div><div class="drawer__content"><ul class="drawer__nav"><li class="drawer__nav-item"><a href="/pr-preview/pr-26/">Home</a></li><li class="drawer__nav-item"><a href="/pr-preview/pr-26/projects/">Projects</a></li><li class="drawer__nav-item"><a href="/pr-preview/pr-26/participant-guide/">Participants</a></li><li class="drawer__nav-item"><a href="/pr-preview/pr-26/bounties/">Bounties</a></li><li class="drawer__nav-item"><a href="/pr-preview/pr-26/leaderboard/">Leaderboard</a></li><li class="drawer__nav-item"><a href="/pr-preview/pr-26/project-guide/">Maintainers</a></li><li class="drawer__nav-item"><a href="/pr-preview/pr-26/rules/">Rules</a></li></ul></div></div></section><main><div class="page-container"><div class="tag-list tag-list--no-wrap"><h3 class="tag-list__title">Articles Tagged: "Sortedprojects"</h3><a class="btn btn--sm btn--danger" href="/pr-preview/pr-26/blog/">Remove Tag</a></div><section><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/zxlive/"><h5 class="article-card__title">zxlive</h5><p class="article-card__summary">A graphical tool for the ZX calculus</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/ZX-calculus/" rel="tag">ZX-calculus</a> <a class="tag" href="/pr-preview/pr-26/tags/GUI/" rel="tag">GUI</a> <a class="tag" href="/pr-preview/pr-26/tags/quantum circuit optimization/" rel="tag">quantum circuit optimization</a> <a class="tag" href="/pr-preview/pr-26/tags/graphs/" rel="tag">graphs</a> <a class="tag" href="/pr-preview/pr-26/tags/research tool/" rel="tag">research tool</a> <a class="tag" href="/pr-preview/pr-26/tags/teaching tool/" rel="tag">teaching tool</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/toqito/"><h5 class="article-card__title">toqito</h5><p class="article-card__summary">|toqito&gt; (Theory of Quantum Information Toolkit) in Python</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/quantum information/" rel="tag">quantum information</a> <a class="tag" href="/pr-preview/pr-26/tags/matrix analysis/" rel="tag">matrix analysis</a> <a class="tag" href="/pr-preview/pr-26/tags/linear algebra/" rel="tag">linear algebra</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/quantify/"><h5 class="article-card__title">Quantify</h5><p class="article-card__summary">Quantify is a hardware-agnostic framework designed to allow experimentalists to easily define complex quantum experiments.</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/data acquisition/" rel="tag">data acquisition</a> <a class="tag" href="/pr-preview/pr-26/tags/instrument control/" rel="tag">instrument control</a> <a class="tag" href="/pr-preview/pr-26/tags/solid-state physics/" rel="tag">solid-state physics</a> <a class="tag" href="/pr-preview/pr-26/tags/experimental physics/" rel="tag">experimental physics</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/qosf/"><h5 class="article-card__title">QOSF</h5><p class="article-card__summary">The Quantum Open Source Foundation (QOSF) is a non-profit organization that promotes the development and use of open-source software in quantum computing.</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/qbraid/"><h5 class="article-card__title">qBraid</h5><p class="article-card__summary">A platform-agnostic quantum runtime framework</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/openqasm/" rel="tag">openqasm</a> <a class="tag" href="/pr-preview/pr-26/tags/compiler/" rel="tag">compiler</a> <a class="tag" href="/pr-preview/pr-26/tags/semantic analysis/" rel="tag">semantic analysis</a> <a class="tag" href="/pr-preview/pr-26/tags/runtime/" rel="tag">runtime</a> <a class="tag" href="/pr-preview/pr-26/tags/transpiler/" rel="tag">transpiler</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/piccolo.jl-(harmoniqs)/"><h5 class="article-card__title">Piccolo.jl (Harmoniqs)</h5><p class="article-card__summary">Fine tuned quantum control inspired by robotics</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/optimization/" rel="tag">optimization</a> <a class="tag" href="/pr-preview/pr-26/tags/julia/" rel="tag">julia</a> <a class="tag" href="/pr-preview/pr-26/tags/optimal control/" rel="tag">optimal control</a> <a class="tag" href="/pr-preview/pr-26/tags/trajectory optimization/" rel="tag">trajectory optimization</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/pennylane/"><h5 class="article-card__title">PennyLane</h5><p class="article-card__summary">PennyLane is an open-source quantum software ecosystem for designing, compiling, and analyzing meaningful quantum algorithms.</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/quantum algorithms/" rel="tag">quantum algorithms</a> <a class="tag" href="/pr-preview/pr-26/tags/compilation/" rel="tag">compilation</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/open-quantum-design/"><h5 class="article-card__title">Open Quantum Design</h5><p class="article-card__summary">Building the world&#39;s first open-source, full-stack quantum computer</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/trapped ion/" rel="tag">trapped ion</a> <a class="tag" href="/pr-preview/pr-26/tags/compiler/" rel="tag">compiler</a> <a class="tag" href="/pr-preview/pr-26/tags/quantum simulation/" rel="tag">quantum simulation</a> <a class="tag" href="/pr-preview/pr-26/tags/full stack/" rel="tag">full stack</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/mqt-core/"><h5 class="article-card__title">MQT Core</h5><p class="article-card__summary">The Backbone of the Munich Quantum Toolkit (MQT) -- A collection of design automation tools and software for quantum computing</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/C++/" rel="tag">C++</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/simulation/" rel="tag">simulation</a> <a class="tag" href="/pr-preview/pr-26/tags/compilation/" rel="tag">compilation</a> <a class="tag" href="/pr-preview/pr-26/tags/MLIR/" rel="tag">MLIR</a> <a class="tag" href="/pr-preview/pr-26/tags/decision diagrams/" rel="tag">decision diagrams</a> <a class="tag" href="/pr-preview/pr-26/tags/ZX-calculus/" rel="tag">ZX-calculus</a> <a class="tag" href="/pr-preview/pr-26/tags/neutral atoms/" rel="tag">neutral atoms</a> <a class="tag" href="/pr-preview/pr-26/tags/quantum software stack/" rel="tag">quantum software stack</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/metriq/"><h5 class="article-card__title">Metriq</h5><p class="article-card__summary">Metriq is a collaborative platform for benchmarking quantum computers.</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/benchmarking/" rel="tag">benchmarking</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/h-hat-quantum-programming-language/"><h5 class="article-card__title">H-hat quantum programming language</h5><p class="article-card__summary">H-hat is a quantum programming language that aims to bring quantum resources to software developers with no prior knowledge on quantum computing.</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/programming language/" rel="tag">programming language</a> <a class="tag" href="/pr-preview/pr-26/tags/compiler/" rel="tag">compiler</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/graphix/"><h5 class="article-card__title">graphix</h5><p class="article-card__summary">Graphix is a measurement-based quantum computing (MBQC) software package.</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/MBQC/" rel="tag">MBQC</a> <a class="tag" href="/pr-preview/pr-26/tags/measurement calculus/" rel="tag">measurement calculus</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/optics/" rel="tag">optics</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/deltakit/"><h5 class="article-card__title">Deltakit</h5><p class="article-card__summary">An SDK for quantum error correction, built by Riverlane. Designed for researchers, developers, and quantum engineers</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/error correction/" rel="tag">error correction</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/compilation/" rel="tag">compilation</a> <a class="tag" href="/pr-preview/pr-26/tags/visualisation/" rel="tag">visualisation</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/art-with-quantum-dynamics/"><h5 class="article-card__title">Art with Quantum Dynamics</h5><p class="article-card__summary">Simulating quantum dynamics can be used for science. But let&#39;s also use it for art!</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/art/" rel="tag">art</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/dynamics/" rel="tag">dynamics</a></p></a></article><article class="article-card article-card--tags"><a class="article-card__link" href="/pr-preview/pr-26/projects/amazon-braket-sdk/"><h5 class="article-card__title">Amazon Braket SDK</h5><p class="article-card__summary">An open-source Python SDK for interacting with quantum computers and simulators on Amazon Braket</p><p class="tag-list"><a class="tag" href="/pr-preview/pr-26/tags/project/" rel="tag">project</a> <a class="tag" href="/pr-preview/pr-26/tags/python/" rel="tag">python</a> <a class="tag" href="/pr-preview/pr-26/tags/circuits/" rel="tag">circuits</a> <a class="tag" href="/pr-preview/pr-26/tags/openqasm/" rel="tag">openqasm</a> <a class="tag" href="/pr-preview/pr-26/tags/pulse control/" rel="tag">pulse control</a></p></a></article></section><nav><a href="/pr-preview/pr-26/blog/">← View All Articles</a></nav></div></main><footer class="site-footer"><small>This project is maintained by <a href="https://unitary.foundation">Unitary Foundation</a>. Find an error? File it on the <a href="https://github.com/unitaryfoundation/unitary.design">GitHub repo</a>.</small></footer></body></html>
