@@ -18,6 +18,8 @@ bounties:
     value: 150
   - issue_num: 138
     value: 150
+  - issue_num: 146
+    value: 150
 ---
 
 Quantify is a Python-based data acquisition framework focused on Quantum Computing and solid-state physics experiments. 
