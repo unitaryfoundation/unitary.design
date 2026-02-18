@@ -28,14 +28,20 @@
   {
     "bounties": [
       {
+        "project": "hhat_lang",
+        "title": "[IMPL] Create syntax highlighting using `pygments`",
+        "url": "https://github.com/hhat-lang/hhat_lang/issues/96",
+        "value": 100
+      },
+      {
         "project": "toqito",
         "title": "Enhance portability of logo and incorporate in swag",
         "url": "https://github.com/vprusso/toqito/issues/1356",
         "value": 160
       }
     ],
-    "num_projects": 1,
-    "total_value": 160,
+    "num_projects": 2,
+    "total_value": 260,
     "username": "DavinderJolly"
   },
   {

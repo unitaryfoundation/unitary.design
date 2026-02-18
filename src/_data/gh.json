@@ -181,7 +181,7 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hhat_lang": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -205,8 +205,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "DavinderJolly"
+        ],
+        "state": "closed",
         "title": "[IMPL] Create syntax highlighting using `pygments`",
         "url": "https://github.com/hhat-lang/hhat_lang/issues/96",
         "value": 100
@@ -215,7 +217,7 @@
     "emoji": "\ud83c\udfa9\ud83d\udc52",
     "name": "H-hat quantum programming language",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/hhat-lang/hhat_lang"
   },
