@@ -19,14 +19,16 @@
           </a>
         </li>
       {%- for entry in navPages %}
-        <li class="drawer__nav-item">
-          <a
-            href="{{ entry.url | url }}"
-            {% if entry.url == page.url %} aria-current data-current="current item"{% endif %}
-          >
-            {{ entry.title }}
-          </a>
-        </li>
+        {% if entry.title != "Leaderboard" %}
+          <li class="drawer__nav-item">
+            <a
+              href="{{ entry.url | url }}"
+              {% if entry.url == page.url %} aria-current data-current="current item"{% endif %}
+            >
+              {{ entry.title }}
+            </a>
+          </li>
+        {% endif %}
       {%- endfor %}
       </ul>
     </div>
