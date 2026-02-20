@@ -398,7 +398,7 @@
     "url": "https://github.com/pennylaneai/qml"
   },
   "qosf.org": {
-    "amount_available": 270,
+    "amount_available": 160,
     "bounties": [
       {
         "assignees": [],
@@ -415,8 +415,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "QuitttCat"
+        ],
+        "state": "closed",
         "title": "Design a monthly challenge",
         "url": "https://github.com/qosf/qosf.org/issues/126",
         "value": 110
@@ -425,7 +427,7 @@
     "emoji": "\ud83c\udf10",
     "name": "QOSF",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 270,
     "url": "https://github.com/qosf/qosf.org"
   },

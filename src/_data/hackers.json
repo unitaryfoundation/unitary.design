@@ -47,6 +47,19 @@
   {
     "bounties": [
       {
+        "project": "qosf.org",
+        "title": "Design a monthly challenge",
+        "url": "https://github.com/qosf/qosf.org/issues/126",
+        "value": 110
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 110,
+    "username": "QuitttCat"
+  },
+  {
+    "bounties": [
+      {
         "project": "quantumbrush",
         "title": "Unwanted Dots or Micro-length Brush Path while Switching Windows",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/30",
