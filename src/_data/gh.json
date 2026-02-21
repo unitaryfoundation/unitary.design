@@ -398,11 +398,13 @@
     "url": "https://github.com/pennylaneai/qml"
   },
   "qosf.org": {
-    "amount_available": 160,
+    "amount_available": 50,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "ljcamargo"
+        ],
+        "state": "closed",
         "title": "Tool to draw quantum circuits with creative styles",
         "url": "https://github.com/qosf/qosf.org/issues/124",
         "value": 110
@@ -427,7 +429,7 @@
     "emoji": "\ud83c\udf10",
     "name": "QOSF",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 270,
     "url": "https://github.com/qosf/qosf.org"
   },
