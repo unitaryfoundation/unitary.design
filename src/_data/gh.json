@@ -239,7 +239,9 @@
         "value": 125
       },
       {
-        "assignees": [],
+        "assignees": [
+          "InderpalSuthar"
+        ],
         "state": "open",
         "title": "Guided walkthrough tour of the new app",
         "url": "https://github.com/unitaryfoundation/metriq-web/issues/318",
