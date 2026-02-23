@@ -166,7 +166,9 @@
         "value": 125
       },
       {
-        "assignees": [],
+        "assignees": [
+          "ACE07-Sev"
+        ],
         "state": "open",
         "title": "Interface with MQTBench for simulator benchmarking",
         "url": "https://github.com/TeamGraphix/graphix/issues/365",
