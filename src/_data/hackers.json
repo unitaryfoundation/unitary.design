@@ -19,10 +19,16 @@
         "title": "New method `fidelity` for `Statevec`",
         "url": "https://github.com/TeamGraphix/graphix/issues/386",
         "value": 25
+      },
+      {
+        "project": "oqd-teaching-demo",
+        "title": "unitaryDESIGN 2026: Build an interactive web application for defining quantum simulation programs",
+        "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo/issues/4",
+        "value": 250
       }
     ],
-    "num_projects": 1,
-    "total_value": 25,
+    "num_projects": 2,
+    "total_value": 275,
     "username": "CodeMaverick2"
   },
   {

@@ -265,7 +265,7 @@
     "url": "https://github.com/unitaryfoundation/metriq"
   },
   "oqd-teaching-demo": {
-    "amount_available": 500,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -275,8 +275,10 @@
         "value": 250
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "CodeMaverick2"
+        ],
+        "state": "closed",
         "title": "unitaryDESIGN 2026: Build an interactive web application for defining quantum simulation programs",
         "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo/issues/4",
         "value": 250
@@ -285,7 +287,7 @@
     "emoji": "\ud83d\udca1",
     "name": "Open Quantum Design",
     "num_bounties": 2,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo"
   },
