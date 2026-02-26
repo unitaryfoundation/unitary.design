@@ -137,6 +137,19 @@
   {
     "bounties": [
       {
+        "project": "hhat_lang",
+        "title": "[IMPL] Define icon, logo, color pallet, etc. for the project",
+        "url": "https://github.com/hhat-lang/hhat_lang/issues/94",
+        "value": 250
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 250,
+    "username": "saadbhattii"
+  },
+  {
+    "bounties": [
+      {
         "project": "quantumbrush",
         "title": "Unwanted Dots or Micro-length Brush Path while Switching Windows",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/30",

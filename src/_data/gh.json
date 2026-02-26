@@ -183,7 +183,7 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hhat_lang": {
-    "amount_available": 400,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [],
@@ -193,8 +193,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "saadbhattii"
+        ],
+        "state": "closed",
         "title": "[IMPL] Define icon, logo, color pallet, etc. for the project",
         "url": "https://github.com/hhat-lang/hhat_lang/issues/94",
         "value": 250
@@ -219,7 +221,7 @@
     "emoji": "\ud83c\udfa9\ud83d\udc52",
     "name": "H-hat quantum programming language",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/hhat-lang/hhat_lang"
   },
