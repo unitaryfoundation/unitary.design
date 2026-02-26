@@ -4,7 +4,7 @@ title: Hackathon Bounties
 date: 2023-02-24
 permalink: /bounties/index.html
 metaDescription: All unitaryDESIGN participating bounties
-subtitle: Check out all of the quantum open source bounties! Not sure where to start? Reach out to us at hack@unitary.foundation! 
+subtitle: unitaryDESIGN bounties are now closed. Thank you to everyone who participated in this inaugural event - we'll see you at the next one! 
 emoji: 💻
 eleventyNavigation:
   order: 4
