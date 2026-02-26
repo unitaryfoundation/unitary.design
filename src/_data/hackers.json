@@ -92,6 +92,32 @@
   {
     "bounties": [
       {
+        "project": "zxlive",
+        "title": "Support LaTeX expressions on blank nodes",
+        "url": "https://github.com/zxcalc/zxlive/issues/388",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100,
+    "username": "axif0"
+  },
+  {
+    "bounties": [
+      {
+        "project": "metriq",
+        "title": "Results Graph UX overhaul",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/317",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125,
+    "username": "gluonhiggs"
+  },
+  {
+    "bounties": [
+      {
         "project": "qosf.org",
         "title": "Tool to draw quantum circuits with creative styles",
         "url": "https://github.com/qosf/qosf.org/issues/124",
