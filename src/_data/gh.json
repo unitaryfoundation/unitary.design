@@ -406,7 +406,7 @@
     "url": "https://github.com/pennylaneai/qml"
   },
   "qosf.org": {
-    "amount_available": 50,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -418,8 +418,10 @@
         "value": 110
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "ljcamargo"
+        ],
+        "state": "closed",
         "title": "General template for QOSF resources",
         "url": "https://github.com/qosf/qosf.org/issues/125",
         "value": 50
@@ -437,7 +439,7 @@
     "emoji": "\ud83c\udf10",
     "name": "QOSF",
     "num_bounties": 3,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 270,
     "url": "https://github.com/qosf/qosf.org"
   },

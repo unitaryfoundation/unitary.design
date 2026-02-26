@@ -96,10 +96,16 @@
         "title": "Tool to draw quantum circuits with creative styles",
         "url": "https://github.com/qosf/qosf.org/issues/124",
         "value": 110
+      },
+      {
+        "project": "qosf.org",
+        "title": "General template for QOSF resources",
+        "url": "https://github.com/qosf/qosf.org/issues/125",
+        "value": 50
       }
     ],
     "num_projects": 1,
-    "total_value": 110,
+    "total_value": 160,
     "username": "ljcamargo"
   },
   {
