@@ -224,11 +224,13 @@
     "url": "https://github.com/hhat-lang/hhat_lang"
   },
   "metriq": {
-    "amount_available": 375,
+    "amount_available": 250,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "ahkatlio"
+        ],
+        "state": "closed",
         "title": "Example standalone analysis using raw and/or aggregated datasets",
         "url": "https://github.com/unitaryfoundation/metriq-data/issues/299",
         "value": 125
@@ -260,7 +262,7 @@
     "emoji": "\ud83d\udcca\ufe0f\ud83d\udccf",
     "name": "Metriq",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/unitaryfoundation/metriq"
   },
