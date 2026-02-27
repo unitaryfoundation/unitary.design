@@ -559,7 +559,10 @@
         "value": 160
       },
       {
-        "assignees": [],
+        "assignees": [
+          "DavinderJolly",
+          "kwyip"
+        ],
         "state": "open",
         "title": "Create a homepage for the toqito project",
         "url": "https://github.com/vprusso/toqito/issues/1357",
