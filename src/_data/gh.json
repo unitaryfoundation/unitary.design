@@ -1,9 +1,11 @@
 {
   "amazon-braket-sdk-python": {
-    "amount_available": 340,
+    "amount_available": 250,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "gluonhiggs"
+        ],
         "state": "open",
         "title": "Headings and descriptions for API reference",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1186",
@@ -28,14 +30,18 @@
         "value": 90
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "ACE07-Sev"
+        ],
+        "state": "closed",
         "title": "Expand the Braket algorithm library - 2",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1194",
         "value": 90
       },
       {
-        "assignees": [],
+        "assignees": [
+          "CodeMaverick2"
+        ],
         "state": "open",
         "title": "Add script to display recent scientific publications using Amazon Braket in README",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1192",
@@ -45,7 +51,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },

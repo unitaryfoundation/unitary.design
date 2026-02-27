@@ -2,14 +2,20 @@
   {
     "bounties": [
       {
+        "project": "amazon-braket-sdk-python",
+        "title": "Expand the Braket algorithm library - 2",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1194",
+        "value": 90
+      },
+      {
         "project": "qbraid",
         "title": "Recreate and Refine the PyQASM Logo [unitaryDESIGN]",
         "url": "https://github.com/qBraid/pyqasm/issues/287",
         "value": 100
       }
     ],
-    "num_projects": 1,
-    "total_value": 100,
+    "num_projects": 2,
+    "total_value": 190,
     "username": "ACE07-Sev"
   },
   {
