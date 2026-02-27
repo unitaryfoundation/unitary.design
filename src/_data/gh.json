@@ -10,7 +10,9 @@
         "value": 70
       },
       {
-        "assignees": [],
+        "assignees": [
+          "DavinderJolly"
+        ],
         "state": "open",
         "title": "Keep examples in documentation up-to-date automatically",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1187",
@@ -448,25 +450,25 @@
     "url": "https://github.com/qosf/qosf.org"
   },
   "quantify": {
-    "amount_available": 500,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[unitaryDESIGN 2026] Quantify Homepage Redesign (Design-Only)",
         "url": "https://gitlab.com/quantify-os/quantify/-/issues/138",
         "value": 150
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[unitaryDESIGN 2026] Documentation Chatbot UX (Design\u2011Only)",
         "url": "https://gitlab.com/quantify-os/quantify/-/issues/139",
         "value": 150
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[unitaryDESIGN 2026] Quantify 101 Visual Explainer Pack (Design-Only)",
         "url": "https://gitlab.com/quantify-os/quantify/-/issues/146",
         "value": 200
@@ -475,7 +477,7 @@
     "emoji": "\ud83c\udf4a",
     "name": "Quantify",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://gitlab.com/quantify-os/quantify"
   },
