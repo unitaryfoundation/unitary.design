@@ -34,6 +34,12 @@
   {
     "bounties": [
       {
+        "project": "amazon-braket-sdk-python",
+        "title": "Keep examples in documentation up-to-date automatically",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1187",
+        "value": 70
+      },
+      {
         "project": "hhat_lang",
         "title": "[IMPL] Create syntax highlighting using `pygments`",
         "url": "https://github.com/hhat-lang/hhat_lang/issues/96",
@@ -46,8 +52,8 @@
         "value": 160
       }
     ],
-    "num_projects": 2,
-    "total_value": 260,
+    "num_projects": 3,
+    "total_value": 330,
     "username": "DavinderJolly"
   },
   {
@@ -92,14 +98,20 @@
   {
     "bounties": [
       {
+        "project": "amazon-braket-sdk-python",
+        "title": "Expand the Braket algorithm library - 1",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1193",
+        "value": 90
+      },
+      {
         "project": "zxlive",
         "title": "Support LaTeX expressions on blank nodes",
         "url": "https://github.com/zxcalc/zxlive/issues/388",
         "value": 100
       }
     ],
-    "num_projects": 1,
-    "total_value": 100,
+    "num_projects": 2,
+    "total_value": 190,
     "username": "axif0"
   },
   {

@@ -1,6 +1,6 @@
 {
   "amazon-braket-sdk-python": {
-    "amount_available": 500,
+    "amount_available": 340,
     "bounties": [
       {
         "assignees": [],
@@ -13,14 +13,16 @@
         "assignees": [
           "DavinderJolly"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Keep examples in documentation up-to-date automatically",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1187",
         "value": 70
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "axif0"
+        ],
+        "state": "closed",
         "title": "Expand the Braket algorithm library - 1",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1193",
         "value": 90
@@ -43,7 +45,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
