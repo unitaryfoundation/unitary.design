@@ -322,7 +322,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "axif0"
+        ],
         "state": "open",
         "title": "[unitaryDESIGN] Neutral Atom Chain Visualization",
         "url": "https://github.com/harmoniqs/Piccolo.jl/issues/60",
