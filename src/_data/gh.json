@@ -310,7 +310,7 @@
     "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo"
   },
   "piccolo.jl": {
-    "amount_available": 500,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [
@@ -325,7 +325,7 @@
         "assignees": [
           "axif0"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[unitaryDESIGN] Neutral Atom Chain Visualization",
         "url": "https://github.com/harmoniqs/Piccolo.jl/issues/60",
         "value": 75
@@ -341,7 +341,7 @@
         "assignees": [
           "sagnikpal2004"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[unitaryDESIGN] Visualization of a 2-Qubit Gate",
         "url": "https://github.com/harmoniqs/Piccolo.jl/issues/58",
         "value": 150
@@ -357,7 +357,7 @@
     "emoji": "\ud83e\ude88\ud83c\udfb6",
     "name": "Piccolo.jl (Harmoniqs)",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/harmoniqs/Piccolo.jl"
   },

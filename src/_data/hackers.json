@@ -116,14 +116,20 @@
         "value": 90
       },
       {
+        "project": "piccolo.jl",
+        "title": "[unitaryDESIGN] Neutral Atom Chain Visualization",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/60",
+        "value": 75
+      },
+      {
         "project": "zxlive",
         "title": "Support LaTeX expressions on blank nodes",
         "url": "https://github.com/zxcalc/zxlive/issues/388",
         "value": 100
       }
     ],
-    "num_projects": 2,
-    "total_value": 190,
+    "num_projects": 3,
+    "total_value": 265,
     "username": "axif0"
   },
   {
@@ -174,6 +180,12 @@
   {
     "bounties": [
       {
+        "project": "piccolo.jl",
+        "title": "[unitaryDESIGN] Visualization of a 2-Qubit Gate",
+        "url": "https://github.com/harmoniqs/Piccolo.jl/issues/58",
+        "value": 150
+      },
+      {
         "project": "quantumbrush",
         "title": "Unwanted Dots or Micro-length Brush Path while Switching Windows",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/30",
@@ -186,8 +198,8 @@
         "value": 30
       }
     ],
-    "num_projects": 1,
-    "total_value": 60,
+    "num_projects": 2,
+    "total_value": 210,
     "username": "sagnikpal2004"
   }
 ]
