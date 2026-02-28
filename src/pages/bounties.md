@@ -9,5 +9,5 @@ emoji: 💻
 eleventyNavigation:
   order: 4
   key: Bounties
-eleventyExcludeFromCollections: true # set to true to hide in navbars pre-hack
+eleventyExcludeFromCollections: false # set to true to hide in navbars pre-hack
 ---
