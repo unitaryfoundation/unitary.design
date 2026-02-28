@@ -28,13 +28,19 @@
       },
       {
         "project": "oqd-teaching-demo",
+        "title": "unitaryDESIGN 2026: Build an interactive teaching tool for quantum computing",
+        "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo/issues/3",
+        "value": 250
+      },
+      {
+        "project": "oqd-teaching-demo",
         "title": "unitaryDESIGN 2026: Build an interactive web application for defining quantum simulation programs",
         "url": "https://github.com/OpenQuantumDesign/oqd-teaching-demo/issues/4",
         "value": 250
       }
     ],
     "num_projects": 2,
-    "total_value": 275,
+    "total_value": 525,
     "username": "CodeMaverick2"
   },
   {
