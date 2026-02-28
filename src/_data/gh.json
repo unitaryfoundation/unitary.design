@@ -313,7 +313,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "ahkatlio"
+        ],
         "state": "open",
         "title": "[unitaryDESIGN] Documentation Improvement for AI Agents",
         "url": "https://github.com/harmoniqs/Piccolo.jl/issues/61",
