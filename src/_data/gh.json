@@ -604,7 +604,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Bumsparkle"
+        ],
         "state": "open",
         "title": "Copy and paste doesn't bring parameters",
         "url": "https://github.com/zxcalc/zxlive/issues/363",
