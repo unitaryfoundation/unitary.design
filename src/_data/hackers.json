@@ -62,10 +62,16 @@
         "title": "Enhance portability of logo and incorporate in swag",
         "url": "https://github.com/vprusso/toqito/issues/1356",
         "value": 160
+      },
+      {
+        "project": "toqito",
+        "title": "Create a homepage for the toqito project",
+        "url": "https://github.com/vprusso/toqito/issues/1357",
+        "value": 90
       }
     ],
     "num_projects": 3,
-    "total_value": 330,
+    "total_value": 420,
     "username": "DavinderJolly"
   },
   {
@@ -144,6 +150,19 @@
     "num_projects": 1,
     "total_value": 125,
     "username": "gluonhiggs"
+  },
+  {
+    "bounties": [
+      {
+        "project": "toqito",
+        "title": "Create a homepage for the toqito project",
+        "url": "https://github.com/vprusso/toqito/issues/1357",
+        "value": 90
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 90,
+    "username": "kwyip"
   },
   {
     "bounties": [

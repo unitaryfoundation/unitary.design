@@ -548,7 +548,7 @@
     "url": "https://github.com/moth-quantum/QuantumBrush"
   },
   "toqito": {
-    "amount_available": 340,
+    "amount_available": 160,
     "bounties": [
       {
         "assignees": [],
@@ -571,7 +571,7 @@
           "DavinderJolly",
           "kwyip"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Create a homepage for the toqito project",
         "url": "https://github.com/vprusso/toqito/issues/1357",
         "value": 180
@@ -580,7 +580,7 @@
     "emoji": "\ud83c\udf2e\u269b\ufe0f",
     "name": "toqito",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
