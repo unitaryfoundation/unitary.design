@@ -8,14 +8,20 @@
         "value": 90
       },
       {
+        "project": "graphix",
+        "title": "Interface with MQTBench for simulator benchmarking",
+        "url": "https://github.com/TeamGraphix/graphix/issues/365",
+        "value": 200
+      },
+      {
         "project": "qbraid",
         "title": "Recreate and Refine the PyQASM Logo [unitaryDESIGN]",
         "url": "https://github.com/qBraid/pyqasm/issues/287",
         "value": 100
       }
     ],
-    "num_projects": 2,
-    "total_value": 190,
+    "num_projects": 3,
+    "total_value": 390,
     "username": "ACE07-Sev"
   },
   {

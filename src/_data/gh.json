@@ -102,7 +102,7 @@
     "url": "https://github.com/munich-quantum-toolkit/core"
   },
   "deltakit": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -120,7 +120,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "request: Consolidate `correlation_matrix` and `plot_correlation_matrix`",
         "url": "https://github.com/Deltakit/deltakit/issues/71",
         "value": 100
@@ -145,12 +145,12 @@
     "emoji": "\ud83d\udd3c",
     "name": "Deltakit",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/Deltakit/deltakit"
   },
   "graphix": {
-    "amount_available": 475,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [
@@ -179,7 +179,7 @@
         "assignees": [
           "ACE07-Sev"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Interface with MQTBench for simulator benchmarking",
         "url": "https://github.com/TeamGraphix/graphix/issues/365",
         "value": 200
@@ -188,7 +188,7 @@
     "emoji": "\ud83d\udd78\ufe0f",
     "name": "graphix",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/TeamGraphix/graphix"
   },
