@@ -140,14 +140,20 @@
         "value": 75
       },
       {
+        "project": "quantumbrush",
+        "title": "[Creative Challenge] Making Your Own Quantum Brush!",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/33",
+        "value": 40
+      },
+      {
         "project": "zxlive",
         "title": "Support LaTeX expressions on blank nodes",
         "url": "https://github.com/zxcalc/zxlive/issues/388",
         "value": 100
       }
     ],
-    "num_projects": 4,
-    "total_value": 365,
+    "num_projects": 5,
+    "total_value": 405,
     "username": "axif0"
   },
   {
@@ -189,11 +195,30 @@
         "title": "General template for QOSF resources",
         "url": "https://github.com/qosf/qosf.org/issues/125",
         "value": 50
+      },
+      {
+        "project": "quantumbrush",
+        "title": "[Creative Challenge] Make Your Own Creative Application with Quantum Computing!",
+        "url": "https://github.com/moth-quantum/QuantumBrush/issues/34",
+        "value": 100
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 260,
+    "username": "ljcamargo"
+  },
+  {
+    "bounties": [
+      {
+        "project": "core",
+        "title": "\ud83d\udcdd Full-fledged and Interactive Tutorial on QDMI Device Implementation",
+        "url": "https://github.com/Munich-Quantum-Software-Stack/QDMI/issues/310",
+        "value": 150
       }
     ],
     "num_projects": 1,
-    "total_value": 160,
-    "username": "ljcamargo"
+    "total_value": 150,
+    "username": "mhmohona"
   },
   {
     "bounties": [

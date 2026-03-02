@@ -56,7 +56,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
   "core": {
-    "amount_available": 500,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [],
@@ -90,7 +90,7 @@
         "assignees": [
           "mhmohona"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "\ud83d\udcdd Full-fledged and Interactive Tutorial on QDMI Device Implementation",
         "url": "https://github.com/Munich-Quantum-Software-Stack/QDMI/issues/310",
         "value": 150
@@ -99,7 +99,7 @@
     "emoji": "\u269b\ufe0f",
     "name": "MQT Core",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/munich-quantum-toolkit/core"
   },
@@ -504,7 +504,7 @@
     "url": "https://gitlab.com/quantify-os/quantify"
   },
   "quantumbrush": {
-    "amount_available": 440,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
@@ -532,15 +532,19 @@
         "value": 300
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "axif0"
+        ],
+        "state": "closed",
         "title": "[Creative Challenge] Making Your Own Quantum Brush!",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/33",
         "value": 40
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "ljcamargo"
+        ],
+        "state": "closed",
         "title": "[Creative Challenge] Make Your Own Creative Application with Quantum Computing!",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/34",
         "value": 100
@@ -549,7 +553,7 @@
     "emoji": "\ud83d\udd8c\ufe0f\ud83c\udfa8",
     "name": "Art with Quantum Dynamics",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/moth-quantum/QuantumBrush"
   },
