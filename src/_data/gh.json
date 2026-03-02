@@ -87,7 +87,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "mhmohona"
+        ],
         "state": "open",
         "title": "\ud83d\udcdd Full-fledged and Interactive Tutorial on QDMI Device Implementation",
         "url": "https://github.com/Munich-Quantum-Software-Stack/QDMI/issues/310",
@@ -102,7 +104,7 @@
     "url": "https://github.com/munich-quantum-toolkit/core"
   },
   "deltakit": {
-    "amount_available": 400,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [],
@@ -113,21 +115,25 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "request: refactor and consolidate `draw_patch` methods",
         "url": "https://github.com/Deltakit/deltakit/issues/72",
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "niranjannagumalli"
+        ],
         "state": "closed",
         "title": "request: Consolidate `correlation_matrix` and `plot_correlation_matrix`",
         "url": "https://github.com/Deltakit/deltakit/issues/71",
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "axif0"
+        ],
+        "state": "closed",
         "title": "request: Improvements on plotting LEPPR and Lambda",
         "url": "https://github.com/Deltakit/deltakit/issues/162",
         "value": 100
@@ -145,7 +151,7 @@
     "emoji": "\ud83d\udd3c",
     "name": "Deltakit",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/Deltakit/deltakit"
   },

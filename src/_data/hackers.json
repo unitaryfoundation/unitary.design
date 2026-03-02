@@ -128,6 +128,12 @@
         "value": 90
       },
       {
+        "project": "deltakit",
+        "title": "request: Improvements on plotting LEPPR and Lambda",
+        "url": "https://github.com/Deltakit/deltakit/issues/162",
+        "value": 100
+      },
+      {
         "project": "piccolo.jl",
         "title": "[unitaryDESIGN] Neutral Atom Chain Visualization",
         "url": "https://github.com/harmoniqs/Piccolo.jl/issues/60",
@@ -140,8 +146,8 @@
         "value": 100
       }
     ],
-    "num_projects": 3,
-    "total_value": 265,
+    "num_projects": 4,
+    "total_value": 365,
     "username": "axif0"
   },
   {
@@ -188,6 +194,19 @@
     "num_projects": 1,
     "total_value": 160,
     "username": "ljcamargo"
+  },
+  {
+    "bounties": [
+      {
+        "project": "deltakit",
+        "title": "request: Consolidate `correlation_matrix` and `plot_correlation_matrix`",
+        "url": "https://github.com/Deltakit/deltakit/issues/71",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100,
+    "username": "niranjannagumalli"
   },
   {
     "bounties": [
