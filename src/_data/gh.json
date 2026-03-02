@@ -56,7 +56,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
   "core": {
-    "amount_available": 350,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -66,8 +66,10 @@
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "CodeMaverick2"
+        ],
+        "state": "closed",
         "title": "\ud83d\udcdd Add repository instructions for AI tooling",
         "url": "https://github.com/munich-quantum-toolkit/core/issues/1459",
         "value": 50
@@ -99,7 +101,7 @@
     "emoji": "\u269b\ufe0f",
     "name": "MQT Core",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/munich-quantum-toolkit/core"
   },
@@ -114,7 +116,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "neogyk"
+        ],
         "state": "closed",
         "title": "request: refactor and consolidate `draw_patch` methods",
         "url": "https://github.com/Deltakit/deltakit/issues/72",
@@ -371,14 +375,19 @@
     "amount_available": 400,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "Akri-A"
+        ],
         "state": "open",
         "title": "qBraid Brand Design System  [unitaryDESIGN]",
         "url": "https://github.com/qBraid/qBraid/issues/1115",
         "value": 300
       },
       {
-        "assignees": [],
+        "assignees": [
+          "ACE07-Sev",
+          "AdwaithaV"
+        ],
         "state": "open",
         "title": "Logos for qBraid's product suite [unitaryDESIGN]",
         "url": "https://github.com/qBraid/qBraid/issues/1120",
@@ -595,7 +604,7 @@
     "url": "https://github.com/vprusso/toqito"
   },
   "zxlive": {
-    "amount_available": 400,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -617,7 +626,7 @@
         "assignees": [
           "Bumsparkle"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Copy and paste doesn't bring parameters",
         "url": "https://github.com/zxcalc/zxlive/issues/363",
         "value": 100
@@ -640,7 +649,7 @@
     "emoji": "\ud83e\ude84",
     "name": "zxlive",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/zxcalc/zxlive"
   }

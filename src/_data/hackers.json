@@ -27,6 +27,25 @@
   {
     "bounties": [
       {
+        "project": "zxlive",
+        "title": "Copy and paste doesn't bring parameters",
+        "url": "https://github.com/zxcalc/zxlive/issues/363",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100,
+    "username": "Bumsparkle"
+  },
+  {
+    "bounties": [
+      {
+        "project": "core",
+        "title": "\ud83d\udcdd Add repository instructions for AI tooling",
+        "url": "https://github.com/munich-quantum-toolkit/core/issues/1459",
+        "value": 50
+      },
+      {
         "project": "graphix",
         "title": "New method `fidelity` for `Statevec`",
         "url": "https://github.com/TeamGraphix/graphix/issues/386",
@@ -45,8 +64,8 @@
         "value": 250
       }
     ],
-    "num_projects": 2,
-    "total_value": 525,
+    "num_projects": 3,
+    "total_value": 575,
     "username": "CodeMaverick2"
   },
   {
@@ -219,6 +238,19 @@
     "num_projects": 1,
     "total_value": 150,
     "username": "mhmohona"
+  },
+  {
+    "bounties": [
+      {
+        "project": "deltakit",
+        "title": "request: refactor and consolidate `draw_patch` methods",
+        "url": "https://github.com/Deltakit/deltakit/issues/72",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100,
+    "username": "neogyk"
   },
   {
     "bounties": [
