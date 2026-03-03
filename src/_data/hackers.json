@@ -286,6 +286,25 @@
   {
     "bounties": [
       {
+        "project": "qml",
+        "title": "Create an animated GIF about PennyLane, Catalyst, a PennyLane Demo, or a quantum computing concept",
+        "url": "https://github.com/pennylaneai/qml/issues/1635",
+        "value": 200
+      },
+      {
+        "project": "qml",
+        "title": "Make a short video (30-60s) explaining a quantum computing concept or PennyLane Demo",
+        "url": "https://github.com/pennylaneai/qml/issues/1636",
+        "value": 250
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 450,
+    "username": "nirajvenkat"
+  },
+  {
+    "bounties": [
+      {
         "project": "deltakit",
         "title": "request: Consolidate `correlation_matrix` and `plot_correlation_matrix`",
         "url": "https://github.com/Deltakit/deltakit/issues/71",

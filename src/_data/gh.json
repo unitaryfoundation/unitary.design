@@ -417,25 +417,31 @@
     "url": "https://github.com/qBraid/qBraid"
   },
   "qml": {
-    "amount_available": 500,
+    "amount_available": 50,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "ACE07-Sev"
+        ],
         "state": "open",
         "title": "Make a PennyLane puzzle in the PennyLane drawing style",
         "url": "https://github.com/pennylaneai/qml/issues/1634",
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "nirajvenkat"
+        ],
+        "state": "closed",
         "title": "Create an animated GIF about PennyLane, Catalyst, a PennyLane Demo, or a quantum computing concept",
         "url": "https://github.com/pennylaneai/qml/issues/1635",
         "value": 200
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "nirajvenkat"
+        ],
+        "state": "closed",
         "title": "Make a short video (30-60s) explaining a quantum computing concept or PennyLane Demo",
         "url": "https://github.com/pennylaneai/qml/issues/1636",
         "value": 250
@@ -444,7 +450,7 @@
     "emoji": "\ud83c\udf04",
     "name": "PennyLane",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/pennylaneai/qml"
   },
