@@ -1,6 +1,6 @@
 {
   "amazon-braket-sdk-python": {
-    "amount_available": 250,
+    "amount_available": 70,
     "bounties": [
       {
         "assignees": [
@@ -42,7 +42,7 @@
         "assignees": [
           "CodeMaverick2"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add script to display recent scientific publications using Amazon Braket in README",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1192",
         "value": 180
@@ -51,7 +51,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
@@ -162,7 +162,7 @@
     "url": "https://github.com/Deltakit/deltakit"
   },
   "graphix": {
-    "amount_available": 275,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -174,15 +174,19 @@
         "value": 25
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "CodeMaverick2"
+        ],
+        "state": "closed",
         "title": "Improve method `Pattern.draw_graph`",
         "url": "https://github.com/TeamGraphix/graphix/issues/387",
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Kitsunp"
+        ],
+        "state": "closed",
         "title": "Interactive tool for  `Pattern.draw_graph`",
         "url": "https://github.com/TeamGraphix/graphix/issues/388",
         "value": 125
@@ -200,7 +204,7 @@
     "emoji": "\ud83d\udd78\ufe0f",
     "name": "graphix",
     "num_bounties": 4,
-    "num_open_bounties": 2,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/TeamGraphix/graphix"
   },

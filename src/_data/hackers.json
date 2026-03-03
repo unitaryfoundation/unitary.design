@@ -40,6 +40,12 @@
   {
     "bounties": [
       {
+        "project": "amazon-braket-sdk-python",
+        "title": "Add script to display recent scientific publications using Amazon Braket in README",
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1192",
+        "value": 180
+      },
+      {
         "project": "core",
         "title": "\ud83d\udcdd Add repository instructions for AI tooling",
         "url": "https://github.com/munich-quantum-toolkit/core/issues/1459",
@@ -50,6 +56,12 @@
         "title": "New method `fidelity` for `Statevec`",
         "url": "https://github.com/TeamGraphix/graphix/issues/386",
         "value": 25
+      },
+      {
+        "project": "graphix",
+        "title": "Improve method `Pattern.draw_graph`",
+        "url": "https://github.com/TeamGraphix/graphix/issues/387",
+        "value": 150
       },
       {
         "project": "oqd-teaching-demo",
@@ -64,8 +76,8 @@
         "value": 250
       }
     ],
-    "num_projects": 3,
-    "total_value": 575,
+    "num_projects": 4,
+    "total_value": 905,
     "username": "CodeMaverick2"
   },
   {
@@ -111,6 +123,19 @@
     "num_projects": 1,
     "total_value": 125,
     "username": "InderpalSuthar"
+  },
+  {
+    "bounties": [
+      {
+        "project": "graphix",
+        "title": "Interactive tool for  `Pattern.draw_graph`",
+        "url": "https://github.com/TeamGraphix/graphix/issues/388",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125,
+    "username": "Kitsunp"
   },
   {
     "bounties": [
