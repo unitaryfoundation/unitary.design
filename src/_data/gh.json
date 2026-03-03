@@ -515,7 +515,7 @@
     "url": "https://gitlab.com/quantify-os/quantify"
   },
   "quantumbrush": {
-    "amount_available": 300,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -537,7 +537,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[Refactoring] Improve UX/UI of the App with Code Implementation",
         "url": "https://github.com/moth-quantum/QuantumBrush/issues/32",
         "value": 300
@@ -564,7 +564,7 @@
     "emoji": "\ud83d\udd8c\ufe0f\ud83c\udfa8",
     "name": "Art with Quantum Dynamics",
     "num_bounties": 5,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/moth-quantum/QuantumBrush"
   },
