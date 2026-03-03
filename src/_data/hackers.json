@@ -230,13 +230,19 @@
     "bounties": [
       {
         "project": "core",
+        "title": "\ud83d\udcdd Improve developer documentation",
+        "url": "https://github.com/munich-quantum-toolkit/core/issues/1456",
+        "value": 50
+      },
+      {
+        "project": "core",
         "title": "\ud83d\udcdd Full-fledged and Interactive Tutorial on QDMI Device Implementation",
         "url": "https://github.com/Munich-Quantum-Software-Stack/QDMI/issues/310",
         "value": 150
       }
     ],
     "num_projects": 1,
-    "total_value": 150,
+    "total_value": 200,
     "username": "mhmohona"
   },
   {

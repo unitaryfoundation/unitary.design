@@ -56,7 +56,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
   "core": {
-    "amount_available": 300,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -75,8 +75,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "mhmohona"
+        ],
+        "state": "closed",
         "title": "\ud83d\udcdd Improve developer documentation",
         "url": "https://github.com/munich-quantum-toolkit/core/issues/1456",
         "value": 50
@@ -101,7 +103,7 @@
     "emoji": "\u269b\ufe0f",
     "name": "MQT Core",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/munich-quantum-toolkit/core"
   },
