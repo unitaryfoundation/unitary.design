@@ -1,12 +1,12 @@
 {
   "amazon-braket-sdk-python": {
-    "amount_available": 70,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
           "gluonhiggs"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Headings and descriptions for API reference",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/1186",
         "value": 70
@@ -51,7 +51,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 5,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
@@ -417,13 +417,13 @@
     "url": "https://github.com/qBraid/qBraid"
   },
   "qml": {
-    "amount_available": 50,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
           "ACE07-Sev"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Make a PennyLane puzzle in the PennyLane drawing style",
         "url": "https://github.com/pennylaneai/qml/issues/1634",
         "value": 50
@@ -450,7 +450,7 @@
     "emoji": "\ud83c\udf04",
     "name": "PennyLane",
     "num_bounties": 3,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/pennylaneai/qml"
   },
