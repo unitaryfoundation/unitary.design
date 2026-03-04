@@ -378,13 +378,13 @@
     "url": "https://github.com/harmoniqs/Piccolo.jl"
   },
   "qbraid": {
-    "amount_available": 400,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
           "Akri-A"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "qBraid Brand Design System  [unitaryDESIGN]",
         "url": "https://github.com/qBraid/qBraid/issues/1115",
         "value": 300
@@ -394,7 +394,7 @@
           "ACE07-Sev",
           "AdwaithaV"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Logos for qBraid's product suite [unitaryDESIGN]",
         "url": "https://github.com/qBraid/qBraid/issues/1120",
         "value": 100
@@ -412,7 +412,7 @@
     "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
     "name": "qBraid",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },

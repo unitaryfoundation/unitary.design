@@ -15,6 +15,12 @@
       },
       {
         "project": "qbraid",
+        "title": "Logos for qBraid's product suite [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/qBraid/issues/1120",
+        "value": 50
+      },
+      {
+        "project": "qbraid",
         "title": "Recreate and Refine the PyQASM Logo [unitaryDESIGN]",
         "url": "https://github.com/qBraid/pyqasm/issues/287",
         "value": 100
@@ -27,8 +33,34 @@
       }
     ],
     "num_projects": 4,
-    "total_value": 440,
+    "total_value": 490,
     "username": "ACE07-Sev"
+  },
+  {
+    "bounties": [
+      {
+        "project": "qbraid",
+        "title": "Logos for qBraid's product suite [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/qBraid/issues/1120",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50,
+    "username": "AdwaithaV"
+  },
+  {
+    "bounties": [
+      {
+        "project": "qbraid",
+        "title": "qBraid Brand Design System  [unitaryDESIGN]",
+        "url": "https://github.com/qBraid/qBraid/issues/1115",
+        "value": 300
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 300,
+    "username": "Akri-A"
   },
   {
     "bounties": [
