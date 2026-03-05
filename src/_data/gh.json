@@ -59,7 +59,9 @@
     "amount_available": 250,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "MatthiasReumann"
+        ],
         "state": "open",
         "title": "\ud83d\udcdd  MLIR - Getting Started Guide",
         "url": "https://github.com/munich-quantum-toolkit/core/issues/1452",
