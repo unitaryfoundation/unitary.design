@@ -11,13 +11,13 @@ bounties:
   - issue_num: 299
     value: 125
     repo: unitaryfoundation/metriq-data
-  - issue_num: 317
+  - issue_num: 9
     value: 125
     repo: unitaryfoundation/metriq-web
-  - issue_num: 318
+  - issue_num: 10
     value: 125
     repo: unitaryfoundation/metriq-web
-  - issue_num: 319
+  - issue_num: 11
     value: 125
     repo: unitaryfoundation/metriq-web
 ---
