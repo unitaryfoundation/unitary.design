@@ -271,7 +271,7 @@
         ],
         "state": "closed",
         "title": "Results Graph UX overhaul",
-        "url": "https://github.com/unitaryfoundation/metriq-web/issues/317",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/9",
         "value": 125
       },
       {
@@ -280,14 +280,14 @@
         ],
         "state": "closed",
         "title": "Guided walkthrough tour of the new app",
-        "url": "https://github.com/unitaryfoundation/metriq-web/issues/318",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/10",
         "value": 125
       },
       {
         "assignees": [],
         "state": "closed",
         "title": "Responsive design audit for new Metriq app",
-        "url": "https://github.com/unitaryfoundation/metriq-web/issues/319",
+        "url": "https://github.com/unitaryfoundation/metriq-web/issues/11",
         "value": 125
       }
     ],
