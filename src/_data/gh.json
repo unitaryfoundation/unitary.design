@@ -498,21 +498,27 @@
     "amount_available": 0,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "DavinderJolly"
+        ],
         "state": "closed",
         "title": "[unitaryDESIGN 2026] Quantify Homepage Redesign (Design-Only)",
         "url": "https://gitlab.com/quantify-os/quantify/-/issues/138",
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Akri-A"
+        ],
         "state": "closed",
         "title": "[unitaryDESIGN 2026] Documentation Chatbot UX (Design\u2011Only)",
         "url": "https://gitlab.com/quantify-os/quantify/-/issues/139",
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Akri-A"
+        ],
         "state": "closed",
         "title": "[unitaryDESIGN 2026] Quantify 101 Visual Explainer Pack (Design-Only)",
         "url": "https://gitlab.com/quantify-os/quantify/-/issues/146",

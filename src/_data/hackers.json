@@ -56,10 +56,22 @@
         "title": "qBraid Brand Design System  [unitaryDESIGN]",
         "url": "https://github.com/qBraid/qBraid/issues/1115",
         "value": 300
+      },
+      {
+        "project": "quantify",
+        "title": "[unitaryDESIGN 2026] Documentation Chatbot UX (Design\u2011Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/139",
+        "value": 150
+      },
+      {
+        "project": "quantify",
+        "title": "[unitaryDESIGN 2026] Quantify 101 Visual Explainer Pack (Design-Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/146",
+        "value": 200
       }
     ],
-    "num_projects": 1,
-    "total_value": 300,
+    "num_projects": 2,
+    "total_value": 650,
     "username": "Akri-A"
   },
   {
@@ -133,6 +145,12 @@
         "value": 100
       },
       {
+        "project": "quantify",
+        "title": "[unitaryDESIGN 2026] Quantify Homepage Redesign (Design-Only)",
+        "url": "https://gitlab.com/quantify-os/quantify/-/issues/138",
+        "value": 150
+      },
+      {
         "project": "toqito",
         "title": "Enhance portability of logo and incorporate in swag",
         "url": "https://github.com/vprusso/toqito/issues/1356",
@@ -145,8 +163,8 @@
         "value": 90
       }
     ],
-    "num_projects": 3,
-    "total_value": 420,
+    "num_projects": 4,
+    "total_value": 570,
     "username": "DavinderJolly"
   },
   {
