@@ -1,0 +1,12 @@
+{
+  "title": "unitaryDESIGN",
+  "description": "An open source hackathon for the quantum technology community.",
+  "siteName": "unitaryDESIGN",
+  "locale": "en_US",
+  "twitterCard": "summary_large_image",
+  "socialImage": "/assets/img/unitaryDESIGN.gif",
+  "socialImageAlt": "unitaryDESIGN logo",
+  "plausible": {
+    "scriptSrc": "https://plausible.io/js/pa-aZnUCRZpCaf_kNLo7yAkG.js"
+  }
+}

@@ -1,5 +1,16 @@
+const metadata = require('./metadata.json');
+
+const plausibleScriptSrc = process.env.PLAUSIBLE_SCRIPT_SRC || '';
+const plausibleEndpoint = process.env.PLAUSIBLE_ENDPOINT || '';
+const defaultPlausible = metadata.plausible || null;
+
 module.exports = {
-  title: 'unitaryDESIGN',
-  description: 'An open source hackathon for the quantum technology community.',
+  ...metadata,
   url: process.env.SITE_URL || 'https://unitary.design',
+  plausible: plausibleScriptSrc
+    ? {
+        scriptSrc: plausibleScriptSrc,
+        endpoint: plausibleEndpoint || null,
+      }
+    : defaultPlausible,
 };
